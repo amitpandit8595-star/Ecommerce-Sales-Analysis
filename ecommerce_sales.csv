@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price,Discount,Sales,Profit,City,State,Payment_Mode
+ORD0001,2026-05-02,CUST0215,Jeans,Clothing,3,3032.05,10,8186.54,2025.07,Pune,Maharashtra,UPI
+ORD0002,2026-06-07,CUST0294,Smartwatch,Electronics,3,4714.44,0,14143.32,1931.35,Lucknow,Uttar Pradesh,UPI
+ORD0003,2026-02-28,CUST0170,Laptop,Electronics,2,55648.48,0,111296.96,10139.93,Gurugram,Haryana,UPI
+ORD0004,2026-03-05,CUST0131,Face Wash,Beauty,2,401.3,10,722.34,179.83,Pune,Maharashtra,Net Banking
+ORD0005,2026-01-09,CUST0053,Jeans,Clothing,3,1592.21,0,4776.63,1345.67,Mumbai,Maharashtra,UPI
+ORD0006,2026-06-13,CUST0050,Cookware Set,Home,4,5352.97,5,20341.29,3107.15,Delhi,Delhi,Debit Card
+ORD0007,2026-08-06,CUST0044,Smartphone,Electronics,2,36659.04,10,65986.27,6524.26,Mumbai,Maharashtra,Net Banking
+ORD0008,2026-07-09,CUST0296,Smartwatch,Electronics,4,11767.45,5,44716.31,5248.86,Lucknow,Uttar Pradesh,Cash
+ORD0009,2026-05-04,CUST0041,Bedsheet,Home,1,1261.29,10,1135.16,257.93,Lucknow,Uttar Pradesh,UPI
+ORD0010,2026-08-04,CUST0063,Bedsheet,Home,3,926.74,5,2641.21,479.62,Ahmedabad,Gujarat,Cash
+ORD0011,2026-02-10,CUST0028,Perfume,Beauty,3,4614.44,10,12458.99,2913.98,Pune,Maharashtra,Net Banking
+ORD0012,2026-02-06,CUST0099,Sneakers,Clothing,1,4137.14,0,4137.14,904.37,Ahmedabad,Gujarat,Credit Card
+ORD0013,2026-08-06,CUST0255,Headphones,Electronics,1,4411.06,20,3528.85,461.39,Chennai,Tamil Nadu,UPI
+ORD0014,2026-02-21,CUST0096,Jacket,Clothing,2,5140.12,0,10280.24,2038.46,Pune,Maharashtra,Debit Card
+ORD0015,2026-07-06,CUST0243,Keyboard,Electronics,1,1847.03,10,1662.33,165.81,Pune,Maharashtra,UPI
+ORD0016,2026-04-18,CUST0044,Smartphone,Electronics,2,48212.53,10,86782.55,11440.55,Lucknow,Uttar Pradesh,Credit Card
+ORD0017,2026-05-09,CUST0283,Office Chair,Home,3,9216.49,15,23502.05,4123.21,Delhi,Delhi,Credit Card
+ORD0018,2026-03-03,CUST0165,Makeup Kit,Beauty,3,2345.53,0,7036.59,2014.5,Jaipur,Rajasthan,Debit Card
+ORD0019,2026-06-29,CUST0113,Backpack,Clothing,3,1777.8,0,5333.4,1116.69,Ahmedabad,Gujarat,UPI
+ORD0020,2026-07-03,CUST0081,Makeup Kit,Beauty,3,1912.19,5,5449.74,1422.96,Delhi,Delhi,UPI
+ORD0021,2026-05-27,CUST0126,Smartphone,Electronics,2,41155.38,0,82310.76,8771.32,Delhi,Delhi,UPI
+ORD0022,2026-07-03,CUST0123,Table Lamp,Home,2,1729.9,5,3286.81,669.76,Gurugram,Haryana,UPI
+ORD0023,2026-07-20,CUST0124,T-Shirt,Clothing,4,978.12,20,3129.98,711.7,Delhi,Delhi,Credit Card
+ORD0024,2026-07-14,CUST0147,Face Wash,Beauty,4,276.5,5,1050.7,264.18,Noida,Uttar Pradesh,UPI
+ORD0025,2026-05-09,CUST0267,Jeans,Clothing,1,1601.04,5,1520.99,363.94,Ahmedabad,Gujarat,UPI
+ORD0026,2026-04-22,CUST0060,Skincare Kit,Beauty,2,3296.67,10,5934.01,1497.9,Noida,Uttar Pradesh,UPI
+ORD0027,2026-01-09,CUST0233,Laptop,Electronics,4,48258.6,10,173730.96,22996.17,Pune,Maharashtra,UPI
+ORD0028,2026-04-26,CUST0075,Face Wash,Beauty,4,800.33,15,2721.12,866.91,Ahmedabad,Gujarat,Net Banking
+ORD0029,2026-04-09,CUST0153,Smartwatch,Electronics,4,16427.59,10,59139.32,6379.33,Jaipur,Rajasthan,UPI
+ORD0030,2026-06-10,CUST0068,Coffee Maker,Home,2,6066.77,5,11526.86,2646.07,Hyderabad,Telangana,UPI
+ORD0031,2026-06-25,CUST0022,Face Wash,Beauty,4,735.22,10,2646.79,824.51,Delhi,Delhi,UPI
+ORD0032,2026-01-21,CUST0286,T-Shirt,Clothing,3,1772.56,15,4520.03,1132.78,Mumbai,Maharashtra,Debit Card
+ORD0033,2026-02-04,CUST0192,Cookware Set,Home,1,4361.09,5,4143.04,786.91,Hyderabad,Telangana,Debit Card
+ORD0034,2026-05-04,CUST0233,Perfume,Beauty,2,5973.84,20,9558.14,3199.91,Bengaluru,Karnataka,Net Banking
+ORD0035,2026-06-09,CUST0161,Perfume,Beauty,3,3853.27,20,9247.85,3027.39,Chennai,Tamil Nadu,UPI
+ORD0036,2026-04-24,CUST0288,Skincare Kit,Beauty,3,2303.36,15,5873.57,1977.06,Ahmedabad,Gujarat,Debit Card
+ORD0037,2026-05-17,CUST0299,Smartphone,Electronics,2,26741.49,15,45460.53,5707.88,Delhi,Delhi,Debit Card
+ORD0038,2026-01-13,CUST0036,Jeans,Clothing,3,1875.26,5,5344.49,1139.02,Ahmedabad,Gujarat,Cash
+ORD0039,2026-05-23,CUST0092,Laptop,Electronics,2,47482.93,10,85469.27,11343.5,Pune,Maharashtra,Credit Card
+ORD0040,2026-03-27,CUST0180,Hair Dryer,Beauty,3,2629.59,20,6311.02,2055.32,Noida,Uttar Pradesh,UPI
+ORD0041,2026-04-18,CUST0005,Cookware Set,Home,4,3672.99,5,13957.36,3017.99,Lucknow,Uttar Pradesh,Credit Card
+ORD0042,2026-02-21,CUST0144,T-Shirt,Clothing,4,567.19,5,2155.32,554.89,Ahmedabad,Gujarat,Net Banking
+ORD0043,2026-07-02,CUST0229,Backpack,Clothing,1,1739.69,5,1652.71,381.53,Noida,Uttar Pradesh,UPI
+ORD0044,2026-04-06,CUST0126,Jacket,Clothing,1,5035.95,0,5035.95,1023.02,Mumbai,Maharashtra,UPI
+ORD0045,2026-01-22,CUST0247,Sneakers,Clothing,1,6659.99,20,5327.99,1392.15,Chennai,Tamil Nadu,UPI
+ORD0046,2026-02-16,CUST0094,Face Wash,Beauty,2,353.12,0,706.24,168.74,Chennai,Tamil Nadu,Net Banking
+ORD0047,2026-04-10,CUST0289,Makeup Kit,Beauty,4,1618.85,0,6475.4,1838.97,Pune,Maharashtra,Credit Card
+ORD0048,2026-08-11,CUST0250,Keyboard,Electronics,2,2473.72,15,4205.32,557.46,Hyderabad,Telangana,Net Banking
+ORD0049,2026-01-02,CUST0160,Laptop,Electronics,1,63878.21,0,63878.21,5965.41,Pune,Maharashtra,Net Banking
+ORD0050,2026-04-11,CUST0268,Table Lamp,Home,4,1592.79,0,6371.16,1369.14,Gurugram,Haryana,Credit Card
+ORD0051,2026-02-04,CUST0215,Laptop,Electronics,3,67801.97,0,203405.91,18983.74,Mumbai,Maharashtra,UPI
+ORD0052,2026-05-15,CUST0196,Sneakers,Clothing,2,3804.06,0,7608.12,2046.18,Jaipur,Rajasthan,Debit Card
+ORD0053,2026-06-13,CUST0192,Skincare Kit,Beauty,1,2498.15,0,2498.15,687.37,Jaipur,Rajasthan,Credit Card
+ORD0054,2026-07-09,CUST0224,Headphones,Electronics,2,4005.8,5,7611.02,897.08,Pune,Maharashtra,Net Banking
+ORD0055,2026-04-23,CUST0062,Perfume,Beauty,3,4463.25,10,12050.78,2860.55,Delhi,Delhi,Credit Card
+ORD0056,2026-03-17,CUST0265,Bedsheet,Home,1,2322.39,0,2322.39,526.45,Bengaluru,Karnataka,UPI
+ORD0057,2026-03-10,CUST0099,Coffee Maker,Home,4,6899.0,10,24836.4,4980.86,Chennai,Tamil Nadu,Debit Card
+ORD0058,2026-04-19,CUST0181,Makeup Kit,Beauty,4,3657.33,15,12434.92,3963.7,Pune,Maharashtra,Credit Card
+ORD0059,2026-03-16,CUST0146,Jeans,Clothing,2,3490.64,5,6632.22,1832.29,Gurugram,Haryana,Net Banking
+ORD0060,2026-06-19,CUST0283,Jacket,Clothing,4,5379.1,15,18288.94,4962.67,Ahmedabad,Gujarat,Debit Card
+ORD0061,2026-03-27,CUST0145,Keyboard,Electronics,2,2955.97,20,4729.55,510.63,Delhi,Delhi,Net Banking
+ORD0062,2026-07-01,CUST0167,Bedsheet,Home,2,2080.74,10,3745.33,706.12,Lucknow,Uttar Pradesh,Credit Card
+ORD0063,2026-05-28,CUST0001,Hair Dryer,Beauty,3,1389.19,5,3959.19,1083.33,Noida,Uttar Pradesh,Debit Card
+ORD0064,2026-06-22,CUST0160,Perfume,Beauty,1,1597.88,5,1517.99,517.01,Lucknow,Uttar Pradesh,Credit Card
+ORD0065,2026-08-15,CUST0147,Cookware Set,Home,2,6433.94,15,10937.7,2444.9,Hyderabad,Telangana,Net Banking
+ORD0066,2026-02-23,CUST0259,Skincare Kit,Beauty,1,1248.78,10,1123.9,314.18,Chennai,Tamil Nadu,Net Banking
+ORD0067,2026-06-05,CUST0008,Office Chair,Home,4,8652.52,0,34610.08,6283.87,Ahmedabad,Gujarat,UPI
+ORD0068,2026-02-10,CUST0228,Smartwatch,Electronics,2,9687.33,5,18405.93,1891.49,Chennai,Tamil Nadu,Net Banking
+ORD0069,2026-05-14,CUST0082,Perfume,Beauty,1,2542.86,15,2161.43,663.92,Bengaluru,Karnataka,Credit Card
+ORD0070,2026-04-19,CUST0005,Keyboard,Electronics,2,3376.34,0,6752.68,891.89,Gurugram,Haryana,UPI
+ORD0071,2026-01-26,CUST0063,Laptop,Electronics,2,72216.08,20,115545.73,11233.36,Chennai,Tamil Nadu,Credit Card
+ORD0072,2026-02-24,CUST0006,Perfume,Beauty,2,5223.98,0,10447.96,2518.61,Chennai,Tamil Nadu,Debit Card
+ORD0073,2026-06-14,CUST0202,Keyboard,Electronics,2,4998.81,15,8497.98,1003.5,Chennai,Tamil Nadu,Cash
+ORD0074,2026-07-09,CUST0288,Perfume,Beauty,1,2357.21,0,2357.21,800.24,Hyderabad,Telangana,UPI
+ORD0075,2026-02-19,CUST0268,Sneakers,Clothing,2,1915.36,10,3447.65,912.7,Gurugram,Haryana,Cash
+ORD0076,2026-07-26,CUST0229,Table Lamp,Home,2,1990.16,10,3582.29,706.41,Pune,Maharashtra,Debit Card
+ORD0077,2026-02-19,CUST0098,Smartphone,Electronics,3,58692.59,0,176077.77,15969.93,Kolkata,West Bengal,Debit Card
+ORD0078,2026-08-04,CUST0030,Cookware Set,Home,3,4074.87,10,11002.15,2132.17,Delhi,Delhi,Debit Card
+ORD0079,2026-01-17,CUST0069,Hair Dryer,Beauty,1,3441.75,0,3441.75,1157.08,Noida,Uttar Pradesh,Net Banking
+ORD0080,2026-05-31,CUST0183,Smartphone,Electronics,3,31067.59,10,83882.49,8924.68,Jaipur,Rajasthan,Credit Card
+ORD0081,2026-07-14,CUST0195,Office Chair,Home,4,6804.75,0,27219.0,5599.5,Jaipur,Rajasthan,Credit Card
+ORD0082,2026-06-19,CUST0022,Skincare Kit,Beauty,3,2425.23,0,7275.69,1784.52,Lucknow,Uttar Pradesh,UPI
+ORD0083,2026-02-14,CUST0073,Laptop,Electronics,4,63704.82,5,242078.32,26019.78,Noida,Uttar Pradesh,UPI
+ORD0084,2026-01-26,CUST0292,Cookware Set,Home,3,5065.08,10,13675.72,2223.1,Delhi,Delhi,Cash
+ORD0085,2026-01-14,CUST0028,Perfume,Beauty,4,4066.93,5,15454.33,4164.27,Kolkata,West Bengal,Credit Card
+ORD0086,2026-04-21,CUST0238,Smartphone,Electronics,2,55353.31,0,110706.62,10670.97,Bengaluru,Karnataka,Debit Card
+ORD0087,2026-04-29,CUST0028,Bedsheet,Home,2,2274.27,10,4093.69,693.46,Jaipur,Rajasthan,UPI
+ORD0088,2026-01-25,CUST0068,Perfume,Beauty,2,2214.95,10,3986.91,1008.63,Hyderabad,Telangana,Credit Card
+ORD0089,2026-06-17,CUST0236,Jacket,Clothing,3,4142.68,10,11185.24,2921.39,Ahmedabad,Gujarat,UPI
+ORD0090,2026-02-28,CUST0229,Jacket,Clothing,4,3386.0,10,12189.6,2981.31,Ahmedabad,Gujarat,Net Banking
+ORD0091,2026-02-24,CUST0137,T-Shirt,Clothing,4,974.96,0,3899.84,803.98,Ahmedabad,Gujarat,UPI
+ORD0092,2026-07-31,CUST0220,Hair Dryer,Beauty,1,1063.85,20,851.08,202.94,Mumbai,Maharashtra,Net Banking
+ORD0093,2026-07-13,CUST0203,Cookware Set,Home,1,6048.77,5,5746.33,1194.27,Jaipur,Rajasthan,Credit Card
+ORD0094,2026-07-31,CUST0225,Hair Dryer,Beauty,1,3935.04,0,3935.04,1038.23,Bengaluru,Karnataka,Debit Card
+ORD0095,2026-04-10,CUST0259,Table Lamp,Home,2,964.12,10,1735.42,272.43,Gurugram,Haryana,UPI
+ORD0096,2026-05-10,CUST0084,Skincare Kit,Beauty,1,2026.52,0,2026.52,696.71,Ahmedabad,Gujarat,UPI
+ORD0097,2026-06-12,CUST0094,Keyboard,Electronics,1,811.39,10,730.25,82.25,Pune,Maharashtra,UPI
+ORD0098,2026-05-17,CUST0076,Keyboard,Electronics,4,4288.6,5,16296.68,2196.48,Gurugram,Haryana,Credit Card
+ORD0099,2026-04-15,CUST0229,Laptop,Electronics,2,70939.22,0,141878.44,18091.3,Gurugram,Haryana,UPI
+ORD0100,2026-03-30,CUST0237,Headphones,Electronics,1,2317.01,5,2201.16,265.06,Hyderabad,Telangana,Credit Card
+ORD0101,2026-04-07,CUST0023,Skincare Kit,Beauty,3,3004.82,10,8113.01,2701.31,Kolkata,West Bengal,Credit Card
+ORD0102,2026-04-14,CUST0104,Laptop,Electronics,1,53127.44,5,50471.07,5830.88,Chennai,Tamil Nadu,Debit Card
+ORD0103,2026-01-15,CUST0111,Hair Dryer,Beauty,3,2510.35,10,6777.94,1797.43,Hyderabad,Telangana,Debit Card
+ORD0104,2026-06-04,CUST0289,Makeup Kit,Beauty,3,3939.99,10,10637.97,2587.16,Delhi,Delhi,UPI
+ORD0105,2026-04-19,CUST0216,Smartphone,Electronics,3,56222.6,10,151801.02,14411.98,Hyderabad,Telangana,Debit Card
+ORD0106,2026-06-04,CUST0095,Cookware Set,Home,1,5945.94,5,5648.64,1032.1,Mumbai,Maharashtra,Credit Card
+ORD0107,2026-04-14,CUST0038,Smartwatch,Electronics,3,10912.23,10,29463.02,3820.95,Noida,Uttar Pradesh,UPI
+ORD0108,2026-08-05,CUST0111,Cookware Set,Home,3,3297.23,0,9891.69,1947.66,Mumbai,Maharashtra,Debit Card
+ORD0109,2026-03-13,CUST0127,Office Chair,Home,4,17117.54,15,58199.64,12408.56,Chennai,Tamil Nadu,UPI
+ORD0110,2026-05-31,CUST0257,Jacket,Clothing,1,3793.41,0,3793.41,1030.08,Gurugram,Haryana,UPI
+ORD0111,2026-04-25,CUST0149,Coffee Maker,Home,3,3711.09,15,9463.28,2078.06,Pune,Maharashtra,Credit Card
+ORD0112,2026-01-25,CUST0090,Jacket,Clothing,1,2766.23,0,2766.23,610.92,Hyderabad,Telangana,Net Banking
+ORD0113,2026-07-06,CUST0251,Smartphone,Electronics,3,39010.61,10,105328.65,11765.89,Gurugram,Haryana,UPI
+ORD0114,2026-05-30,CUST0154,Jeans,Clothing,1,1580.68,15,1343.58,300.61,Gurugram,Haryana,UPI
+ORD0115,2026-08-08,CUST0063,Perfume,Beauty,4,2054.57,5,7807.37,2278.79,Kolkata,West Bengal,Net Banking
+ORD0116,2026-07-03,CUST0211,Perfume,Beauty,4,2638.06,0,10552.24,3323.91,Gurugram,Haryana,UPI
+ORD0117,2026-03-19,CUST0175,Perfume,Beauty,2,1375.44,15,2338.25,690.94,Delhi,Delhi,Credit Card
+ORD0118,2026-06-06,CUST0055,Perfume,Beauty,2,3123.66,10,5622.59,1334.57,Ahmedabad,Gujarat,Net Banking
+ORD0119,2026-08-08,CUST0288,Backpack,Clothing,2,1603.94,10,2887.09,772.51,Pune,Maharashtra,Debit Card
+ORD0120,2026-02-23,CUST0249,Sneakers,Clothing,3,1940.9,5,5531.56,1145.65,Ahmedabad,Gujarat,Cash
+ORD0121,2026-03-19,CUST0288,Headphones,Electronics,4,7234.73,5,27491.97,2605.5,Ahmedabad,Gujarat,Net Banking
+ORD0122,2026-06-25,CUST0007,Office Chair,Home,4,17514.44,10,63051.98,10491.77,Pune,Maharashtra,Debit Card
+ORD0123,2026-03-23,CUST0002,Laptop,Electronics,3,52276.02,0,156828.06,20712.17,Lucknow,Uttar Pradesh,Net Banking
+ORD0124,2026-05-20,CUST0020,Keyboard,Electronics,2,2235.63,15,3800.57,408.28,Pune,Maharashtra,Debit Card
+ORD0125,2026-03-27,CUST0280,T-Shirt,Clothing,1,1505.98,5,1430.68,310.38,Hyderabad,Telangana,UPI
+ORD0126,2026-02-09,CUST0237,Coffee Maker,Home,4,5561.93,5,21135.33,3208.29,Jaipur,Rajasthan,Credit Card
+ORD0127,2026-08-03,CUST0293,Jacket,Clothing,3,2454.97,5,6996.66,1404.42,Mumbai,Maharashtra,UPI
+ORD0128,2026-06-14,CUST0153,Skincare Kit,Beauty,2,2230.09,10,4014.16,1035.2,Delhi,Delhi,Credit Card
+ORD0129,2026-08-07,CUST0168,Table Lamp,Home,2,1174.77,0,2349.54,401.99,Kolkata,West Bengal,UPI
+ORD0130,2026-08-08,CUST0190,Bedsheet,Home,3,1930.56,10,5212.51,1131.37,Chennai,Tamil Nadu,Credit Card
+ORD0131,2026-01-26,CUST0029,Smartphone,Electronics,3,21644.44,0,64933.32,6125.56,Bengaluru,Karnataka,Credit Card
+ORD0132,2026-02-23,CUST0098,Sneakers,Clothing,4,4073.41,10,14664.28,3185.26,Bengaluru,Karnataka,Credit Card
+ORD0133,2026-03-22,CUST0201,Keyboard,Electronics,2,2831.77,0,5663.54,581.02,Bengaluru,Karnataka,Debit Card
+ORD0134,2026-02-11,CUST0025,Jacket,Clothing,1,2153.15,5,2045.49,527.72,Ahmedabad,Gujarat,UPI
+ORD0135,2026-01-12,CUST0275,Headphones,Electronics,4,1728.8,10,6223.68,641.43,Mumbai,Maharashtra,UPI
+ORD0136,2026-03-03,CUST0080,Perfume,Beauty,2,1856.73,10,3342.11,961.04,Lucknow,Uttar Pradesh,Net Banking
+ORD0137,2026-07-19,CUST0025,Sneakers,Clothing,1,5122.54,10,4610.29,1183.59,Kolkata,West Bengal,Net Banking
+ORD0138,2026-01-16,CUST0199,Table Lamp,Home,2,1208.78,0,2417.56,492.2,Noida,Uttar Pradesh,Net Banking
+ORD0139,2026-02-28,CUST0215,Jeans,Clothing,1,1278.08,10,1150.27,237.83,Ahmedabad,Gujarat,Cash
+ORD0140,2026-08-15,CUST0108,Makeup Kit,Beauty,2,4362.65,10,7852.77,2374.25,Ahmedabad,Gujarat,UPI
+ORD0141,2026-02-08,CUST0015,Smartphone,Electronics,3,63329.9,5,180490.22,22523.16,Lucknow,Uttar Pradesh,Cash
+ORD0142,2026-04-18,CUST0227,Smartwatch,Electronics,1,14756.21,10,13280.59,1526.84,Noida,Uttar Pradesh,Net Banking
+ORD0143,2026-01-29,CUST0245,Bedsheet,Home,4,1699.19,15,5777.25,898.95,Hyderabad,Telangana,Credit Card
+ORD0144,2026-03-25,CUST0065,Face Wash,Beauty,3,817.89,5,2330.99,550.12,Pune,Maharashtra,UPI
+ORD0145,2026-06-02,CUST0193,Headphones,Electronics,4,4377.71,5,16635.3,1733.78,Chennai,Tamil Nadu,Net Banking
+ORD0146,2026-02-06,CUST0061,Cookware Set,Home,1,4024.42,5,3823.2,611.54,Gurugram,Haryana,UPI
+ORD0147,2026-06-02,CUST0199,T-Shirt,Clothing,3,1777.03,15,4531.43,1061.44,Mumbai,Maharashtra,Net Banking
+ORD0148,2026-04-17,CUST0226,Sneakers,Clothing,3,6702.21,5,19101.3,5168.13,Noida,Uttar Pradesh,Credit Card
+ORD0149,2026-02-16,CUST0215,Jacket,Clothing,3,2676.26,15,6824.46,1826.07,Kolkata,West Bengal,Net Banking
+ORD0150,2026-03-23,CUST0062,Headphones,Electronics,1,5261.46,0,5261.46,573.6,Mumbai,Maharashtra,Net Banking
+ORD0151,2026-03-14,CUST0068,Headphones,Electronics,2,6747.67,10,12145.81,1529.13,Jaipur,Rajasthan,Credit Card
+ORD0152,2026-07-14,CUST0226,Smartphone,Electronics,4,38531.06,5,146418.03,14087.86,Jaipur,Rajasthan,Net Banking
+ORD0153,2026-05-04,CUST0038,Jacket,Clothing,1,3346.54,10,3011.89,590.93,Ahmedabad,Gujarat,UPI
+ORD0154,2026-07-16,CUST0081,Keyboard,Electronics,2,1004.89,0,2009.78,202.12,Lucknow,Uttar Pradesh,UPI
+ORD0155,2026-04-08,CUST0040,Bedsheet,Home,1,1617.0,15,1374.45,268.99,Ahmedabad,Gujarat,Credit Card
+ORD0156,2026-02-28,CUST0059,Bedsheet,Home,4,2047.65,10,7371.54,1494.04,Delhi,Delhi,UPI
+ORD0157,2026-06-15,CUST0188,Bedsheet,Home,1,2222.92,15,1889.48,299.42,Gurugram,Haryana,UPI
+ORD0158,2026-06-09,CUST0158,Office Chair,Home,1,17497.1,0,17497.1,3780.52,Noida,Uttar Pradesh,Net Banking
+ORD0159,2026-08-12,CUST0013,Skincare Kit,Beauty,2,3008.51,10,5415.32,1386.55,Mumbai,Maharashtra,Debit Card
+ORD0160,2026-04-19,CUST0163,Perfume,Beauty,4,3887.25,5,14771.55,4447.43,Ahmedabad,Gujarat,UPI
+ORD0161,2026-03-01,CUST0222,Hair Dryer,Beauty,2,3663.6,5,6960.84,2267.94,Lucknow,Uttar Pradesh,Debit Card
+ORD0162,2026-01-12,CUST0193,Smartwatch,Electronics,4,5193.18,0,20772.72,2169.63,Delhi,Delhi,UPI
+ORD0163,2026-08-15,CUST0007,Skincare Kit,Beauty,4,3153.15,10,11351.34,3161.52,Gurugram,Haryana,UPI
+ORD0164,2026-01-26,CUST0226,Laptop,Electronics,3,56326.36,15,143632.22,14667.78,Pune,Maharashtra,Net Banking
+ORD0165,2026-04-26,CUST0288,Perfume,Beauty,1,1690.53,0,1690.53,541.61,Gurugram,Haryana,UPI
+ORD0166,2026-07-03,CUST0092,Coffee Maker,Home,3,3995.35,5,11386.75,2574.19,Lucknow,Uttar Pradesh,Debit Card
+ORD0167,2026-05-11,CUST0257,Cookware Set,Home,3,3982.58,20,9558.19,2014.94,Chennai,Tamil Nadu,UPI
+ORD0168,2026-01-12,CUST0274,T-Shirt,Clothing,1,798.94,5,758.99,208.2,Ahmedabad,Gujarat,Net Banking
+ORD0169,2026-01-08,CUST0079,Face Wash,Beauty,4,603.1,0,2412.4,794.25,Chennai,Tamil Nadu,Credit Card
+ORD0170,2026-03-01,CUST0046,Skincare Kit,Beauty,3,2854.76,10,7707.85,2006.35,Ahmedabad,Gujarat,Credit Card
+ORD0171,2026-06-25,CUST0214,Coffee Maker,Home,2,6389.13,10,11500.43,2120.96,Kolkata,West Bengal,Credit Card
+ORD0172,2026-01-18,CUST0095,Smartphone,Electronics,3,58258.43,20,139820.23,13587.71,Chennai,Tamil Nadu,Debit Card
+ORD0173,2026-08-02,CUST0179,Office Chair,Home,1,14034.76,20,11227.81,2499.6,Gurugram,Haryana,UPI
+ORD0174,2026-04-02,CUST0148,Perfume,Beauty,2,1693.4,0,3386.8,964.79,Kolkata,West Bengal,UPI
+ORD0175,2026-07-24,CUST0077,Sneakers,Clothing,4,1850.81,0,7403.24,1783.62,Jaipur,Rajasthan,UPI
+ORD0176,2026-04-16,CUST0123,Jeans,Clothing,3,1505.25,5,4289.96,1101.74,Mumbai,Maharashtra,UPI
+ORD0177,2026-03-13,CUST0178,T-Shirt,Clothing,3,1301.59,10,3514.29,908.11,Ahmedabad,Gujarat,Debit Card
+ORD0178,2026-05-14,CUST0022,Makeup Kit,Beauty,3,2291.75,5,6531.49,1987.52,Hyderabad,Telangana,Credit Card
+ORD0179,2026-01-12,CUST0087,Headphones,Electronics,4,1477.13,10,5317.67,499.43,Kolkata,West Bengal,Debit Card
+ORD0180,2026-08-09,CUST0119,Bedsheet,Home,3,1846.76,20,4432.22,784.29,Ahmedabad,Gujarat,Credit Card
+ORD0181,2026-04-15,CUST0059,Hair Dryer,Beauty,2,1565.85,10,2818.53,711.44,Ahmedabad,Gujarat,Debit Card
+ORD0182,2026-05-15,CUST0213,Backpack,Clothing,1,1948.48,0,1948.48,371.31,Delhi,Delhi,Debit Card
+ORD0183,2026-02-19,CUST0177,Makeup Kit,Beauty,4,3477.94,5,13216.17,4539.99,Ahmedabad,Gujarat,Credit Card
+ORD0184,2026-06-13,CUST0262,Jacket,Clothing,1,3861.49,5,3668.42,910.2,Mumbai,Maharashtra,Debit Card
+ORD0185,2026-02-09,CUST0021,Hair Dryer,Beauty,2,3073.23,5,5839.14,1582.77,Mumbai,Maharashtra,Debit Card
+ORD0186,2026-01-14,CUST0002,Headphones,Electronics,4,6476.8,15,22021.12,2171.83,Lucknow,Uttar Pradesh,UPI
+ORD0187,2026-08-05,CUST0084,Keyboard,Electronics,1,1090.36,5,1035.84,136.52,Ahmedabad,Gujarat,Credit Card
+ORD0188,2026-01-05,CUST0164,T-Shirt,Clothing,1,1347.76,20,1078.21,230.0,Chennai,Tamil Nadu,Net Banking
+ORD0189,2026-04-03,CUST0266,Cookware Set,Home,2,3020.3,0,6040.6,988.13,Noida,Uttar Pradesh,Debit Card
+ORD0190,2026-03-05,CUST0284,Jacket,Clothing,4,3825.17,10,13770.61,3888.25,Jaipur,Rajasthan,UPI
+ORD0191,2026-02-25,CUST0156,Keyboard,Electronics,4,2298.27,5,8733.43,1139.89,Lucknow,Uttar Pradesh,Net Banking
+ORD0192,2026-02-06,CUST0020,T-Shirt,Clothing,1,767.59,0,767.59,219.66,Jaipur,Rajasthan,UPI
+ORD0193,2026-06-28,CUST0206,Laptop,Electronics,2,49273.85,0,98547.7,9288.19,Delhi,Delhi,Debit Card
+ORD0194,2026-02-19,CUST0285,Makeup Kit,Beauty,4,4945.18,10,17802.65,4042.73,Jaipur,Rajasthan,Net Banking
+ORD0195,2026-03-21,CUST0234,Cookware Set,Home,3,4513.0,10,12185.1,1963.9,Hyderabad,Telangana,Debit Card
+ORD0196,2026-01-05,CUST0086,Sneakers,Clothing,1,6843.54,10,6159.19,1251.03,Kolkata,West Bengal,UPI
+ORD0197,2026-05-25,CUST0026,Laptop,Electronics,2,74334.04,5,141234.68,12829.87,Mumbai,Maharashtra,Net Banking
+ORD0198,2026-01-01,CUST0147,Sneakers,Clothing,3,5796.3,15,14780.56,3790.51,Delhi,Delhi,Net Banking
+ORD0199,2026-07-11,CUST0063,Coffee Maker,Home,1,5060.12,10,4554.11,810.11,Mumbai,Maharashtra,Net Banking
+ORD0200,2026-07-22,CUST0098,Jacket,Clothing,1,6468.68,10,5821.81,1421.7,Jaipur,Rajasthan,Credit Card
+ORD0201,2026-01-23,CUST0129,Coffee Maker,Home,3,8516.89,15,21718.07,4582.14,Jaipur,Rajasthan,UPI
+ORD0202,2026-05-27,CUST0093,Jeans,Clothing,3,1213.24,10,3275.75,813.97,Chennai,Tamil Nadu,Credit Card
+ORD0203,2026-07-19,CUST0110,Perfume,Beauty,3,3819.3,5,10885.0,2544.73,Bengaluru,Karnataka,Debit Card
+ORD0204,2026-07-17,CUST0117,Smartphone,Electronics,3,38882.65,10,104983.16,14243.17,Mumbai,Maharashtra,Cash
+ORD0205,2026-06-25,CUST0021,Table Lamp,Home,4,1042.68,10,3753.65,723.28,Gurugram,Haryana,UPI
+ORD0206,2026-01-15,CUST0277,Face Wash,Beauty,4,670.86,20,2146.75,651.67,Bengaluru,Karnataka,Credit Card
+ORD0207,2026-06-06,CUST0239,Hair Dryer,Beauty,1,1354.97,10,1219.47,350.93,Gurugram,Haryana,Credit Card
+ORD0208,2026-03-31,CUST0263,Sneakers,Clothing,4,3418.8,10,12307.68,2799.88,Hyderabad,Telangana,Debit Card
+ORD0209,2026-07-08,CUST0298,Backpack,Clothing,3,2979.43,10,8044.46,1594.31,Noida,Uttar Pradesh,Net Banking
+ORD0210,2026-02-16,CUST0141,Makeup Kit,Beauty,3,2882.54,15,7350.48,1983.32,Noida,Uttar Pradesh,Debit Card
+ORD0211,2026-03-13,CUST0152,Jacket,Clothing,3,5530.6,10,14932.62,3413.64,Noida,Uttar Pradesh,Credit Card
+ORD0212,2026-03-30,CUST0146,Keyboard,Electronics,4,2068.65,15,7033.41,776.06,Noida,Uttar Pradesh,Debit Card
+ORD0213,2026-08-14,CUST0161,Backpack,Clothing,2,2074.6,0,4149.2,875.58,Lucknow,Uttar Pradesh,UPI
+ORD0214,2026-05-18,CUST0078,Perfume,Beauty,1,2056.54,10,1850.89,551.29,Gurugram,Haryana,Debit Card
+ORD0215,2026-05-05,CUST0167,Smartphone,Electronics,3,27923.33,10,75392.99,8248.54,Kolkata,West Bengal,Debit Card
+ORD0216,2026-02-11,CUST0288,Office Chair,Home,4,17886.33,15,60813.52,12056.74,Kolkata,West Bengal,UPI
+ORD0217,2026-04-07,CUST0070,Coffee Maker,Home,1,4221.82,15,3588.55,593.36,Ahmedabad,Gujarat,Credit Card
+ORD0218,2026-06-09,CUST0149,Smartwatch,Electronics,4,9357.35,0,37429.4,4806.58,Gurugram,Haryana,UPI
+ORD0219,2026-03-11,CUST0130,Sneakers,Clothing,2,5184.56,5,9850.66,2297.03,Kolkata,West Bengal,Net Banking
+ORD0220,2026-05-30,CUST0300,Smartphone,Electronics,3,33050.77,10,89237.08,10023.99,Ahmedabad,Gujarat,UPI
+ORD0221,2026-07-09,CUST0158,Keyboard,Electronics,3,1536.27,10,4147.93,407.26,Noida,Uttar Pradesh,Credit Card
+ORD0222,2026-04-02,CUST0115,Face Wash,Beauty,4,250.8,10,902.88,289.33,Pune,Maharashtra,UPI
+ORD0223,2026-03-25,CUST0231,Keyboard,Electronics,4,3896.16,10,14026.18,1829.26,Chennai,Tamil Nadu,Net Banking
+ORD0224,2026-05-31,CUST0114,Face Wash,Beauty,4,579.44,10,2085.98,478.4,Delhi,Delhi,UPI
+ORD0225,2026-06-29,CUST0190,Jacket,Clothing,3,2211.92,5,6303.97,1503.32,Bengaluru,Karnataka,Credit Card
+ORD0226,2026-03-01,CUST0101,Smartwatch,Electronics,2,16036.72,15,27262.42,3103.94,Kolkata,West Bengal,Credit Card
+ORD0227,2026-06-07,CUST0134,Table Lamp,Home,2,2840.37,10,5112.67,1023.74,Ahmedabad,Gujarat,UPI
+ORD0228,2026-05-10,CUST0206,Jeans,Clothing,1,1900.76,5,1805.72,342.71,Gurugram,Haryana,Net Banking
+ORD0229,2026-04-20,CUST0238,Backpack,Clothing,1,3038.45,5,2886.53,631.78,Delhi,Delhi,UPI
+ORD0230,2026-05-29,CUST0025,Headphones,Electronics,2,7679.02,0,15358.04,1653.16,Ahmedabad,Gujarat,UPI
+ORD0231,2026-05-26,CUST0160,Bedsheet,Home,4,1734.2,0,6936.8,1370.32,Hyderabad,Telangana,UPI
+ORD0232,2026-01-10,CUST0130,Smartphone,Electronics,3,49711.66,5,141678.23,16589.55,Mumbai,Maharashtra,Credit Card
+ORD0233,2026-04-09,CUST0149,Skincare Kit,Beauty,4,956.01,5,3632.84,1004.99,Jaipur,Rajasthan,UPI
+ORD0234,2026-04-13,CUST0040,Coffee Maker,Home,4,3156.8,10,11364.48,2266.58,Hyderabad,Telangana,Cash
+ORD0235,2026-06-27,CUST0063,Jeans,Clothing,1,1707.85,10,1537.06,369.21,Pune,Maharashtra,Cash
+ORD0236,2026-05-13,CUST0183,Headphones,Electronics,4,3700.76,5,14062.89,1385.06,Kolkata,West Bengal,Credit Card
+ORD0237,2026-03-06,CUST0013,T-Shirt,Clothing,2,837.76,10,1507.97,311.35,Chennai,Tamil Nadu,UPI
+ORD0238,2026-07-28,CUST0188,Skincare Kit,Beauty,1,2499.11,15,2124.24,722.56,Hyderabad,Telangana,Debit Card
+ORD0239,2026-04-22,CUST0252,Makeup Kit,Beauty,1,1990.68,5,1891.15,459.56,Hyderabad,Telangana,Debit Card
+ORD0240,2026-05-21,CUST0113,Headphones,Electronics,4,3756.04,15,12770.54,1389.88,Noida,Uttar Pradesh,Net Banking
+ORD0241,2026-01-10,CUST0242,Perfume,Beauty,1,4361.72,10,3925.55,1089.39,Delhi,Delhi,UPI
+ORD0242,2026-07-19,CUST0079,Sneakers,Clothing,3,4199.68,5,11969.09,2706.63,Kolkata,West Bengal,Net Banking
+ORD0243,2026-03-18,CUST0200,Bedsheet,Home,4,1055.29,20,3376.93,626.29,Ahmedabad,Gujarat,UPI
+ORD0244,2026-05-28,CUST0277,Office Chair,Home,3,13567.46,0,40702.38,6144.78,Chennai,Tamil Nadu,Credit Card
+ORD0245,2026-02-20,CUST0261,Coffee Maker,Home,4,8945.32,10,32203.15,6534.33,Lucknow,Uttar Pradesh,Credit Card
+ORD0246,2026-08-11,CUST0136,Sneakers,Clothing,2,3178.24,0,6356.48,1518.98,Delhi,Delhi,Debit Card
+ORD0247,2026-03-19,CUST0105,Jacket,Clothing,2,3595.12,0,7190.24,1531.82,Hyderabad,Telangana,Debit Card
+ORD0248,2026-01-13,CUST0181,Skincare Kit,Beauty,4,1669.98,5,6345.92,2174.09,Kolkata,West Bengal,Net Banking
+ORD0249,2026-06-17,CUST0183,Face Wash,Beauty,4,777.65,0,3110.6,716.21,Delhi,Delhi,UPI
+ORD0250,2026-06-07,CUST0213,Sneakers,Clothing,4,4046.8,5,15377.84,3135.06,Hyderabad,Telangana,Debit Card
+ORD0251,2026-02-08,CUST0268,Hair Dryer,Beauty,4,4104.24,20,13133.57,4013.29,Pune,Maharashtra,Net Banking
+ORD0252,2026-05-15,CUST0151,Skincare Kit,Beauty,2,2517.39,5,4783.04,1559.46,Ahmedabad,Gujarat,Debit Card
+ORD0253,2026-01-02,CUST0029,Office Chair,Home,2,9160.78,20,14657.25,3297.75,Mumbai,Maharashtra,Debit Card
+ORD0254,2026-07-24,CUST0278,Makeup Kit,Beauty,3,4252.92,5,12120.82,2946.34,Lucknow,Uttar Pradesh,Credit Card
+ORD0255,2026-04-18,CUST0281,Laptop,Electronics,3,62792.62,0,188377.86,18324.52,Pune,Maharashtra,Debit Card
+ORD0256,2026-01-03,CUST0104,Cookware Set,Home,2,2636.41,0,5272.82,894.98,Chennai,Tamil Nadu,UPI
+ORD0257,2026-08-07,CUST0066,Backpack,Clothing,1,2609.66,10,2348.69,612.56,Pune,Maharashtra,Credit Card
+ORD0258,2026-01-12,CUST0209,Bedsheet,Home,4,1715.78,0,6863.12,1447.29,Kolkata,West Bengal,UPI
+ORD0259,2026-03-11,CUST0211,Smartphone,Electronics,4,56003.23,5,212812.27,20673.99,Pune,Maharashtra,Net Banking
+ORD0260,2026-06-03,CUST0293,Smartwatch,Electronics,4,8473.33,10,30503.99,4042.92,Bengaluru,Karnataka,Debit Card
+ORD0261,2026-06-22,CUST0020,Sneakers,Clothing,2,2727.54,10,4909.57,1095.08,Jaipur,Rajasthan,Credit Card
+ORD0262,2026-02-24,CUST0254,Jeans,Clothing,2,2306.24,10,4151.23,821.59,Noida,Uttar Pradesh,Credit Card
+ORD0263,2026-05-30,CUST0152,Skincare Kit,Beauty,4,2425.79,15,8247.69,2348.87,Bengaluru,Karnataka,UPI
+ORD0264,2026-04-04,CUST0183,T-Shirt,Clothing,4,772.79,10,2782.04,644.1,Hyderabad,Telangana,Debit Card
+ORD0265,2026-02-26,CUST0118,Laptop,Electronics,4,48101.02,0,192404.08,24717.31,Gurugram,Haryana,Debit Card
+ORD0266,2026-02-16,CUST0078,Perfume,Beauty,4,4260.26,10,15336.94,3668.6,Kolkata,West Bengal,Debit Card
+ORD0267,2026-02-19,CUST0259,Jeans,Clothing,4,2515.31,5,9558.18,2332.72,Noida,Uttar Pradesh,UPI
+ORD0268,2026-05-27,CUST0035,Perfume,Beauty,2,4011.89,5,7622.59,2188.97,Bengaluru,Karnataka,Credit Card
+ORD0269,2026-07-11,CUST0261,Hair Dryer,Beauty,4,2319.2,0,9276.8,2980.8,Noida,Uttar Pradesh,Debit Card
+ORD0270,2026-04-10,CUST0297,Smartwatch,Electronics,3,3272.55,5,9326.77,1034.98,Jaipur,Rajasthan,UPI
+ORD0271,2026-06-07,CUST0106,Table Lamp,Home,3,1011.31,15,2578.84,484.22,Chennai,Tamil Nadu,UPI
+ORD0272,2026-08-11,CUST0106,Jeans,Clothing,4,1768.05,10,6364.98,1813.91,Kolkata,West Bengal,Cash
+ORD0273,2026-04-17,CUST0021,T-Shirt,Clothing,1,584.98,15,497.23,95.54,Mumbai,Maharashtra,Credit Card
+ORD0274,2026-07-22,CUST0148,Laptop,Electronics,2,72015.02,15,122425.53,11146.54,Ahmedabad,Gujarat,UPI
+ORD0275,2026-06-14,CUST0021,Face Wash,Beauty,2,858.93,15,1460.18,466.56,Jaipur,Rajasthan,UPI
+ORD0276,2026-03-26,CUST0161,Headphones,Electronics,1,6131.06,10,5517.95,619.49,Jaipur,Rajasthan,UPI
+ORD0277,2026-06-01,CUST0061,Smartwatch,Electronics,1,8978.84,15,7632.01,892.48,Delhi,Delhi,UPI
+ORD0278,2026-04-08,CUST0065,Office Chair,Home,2,5879.69,10,10583.44,2106.44,Kolkata,West Bengal,Credit Card
+ORD0279,2026-05-05,CUST0167,Keyboard,Electronics,4,4771.93,5,18133.33,1716.92,Bengaluru,Karnataka,Credit Card
+ORD0280,2026-03-04,CUST0049,Cookware Set,Home,4,4465.01,5,16967.04,3872.64,Bengaluru,Karnataka,UPI
+ORD0281,2026-05-23,CUST0232,Jeans,Clothing,2,3205.91,5,6091.23,1603.06,Kolkata,West Bengal,Net Banking
+ORD0282,2026-01-26,CUST0066,Makeup Kit,Beauty,3,4469.37,15,11396.89,3330.42,Lucknow,Uttar Pradesh,UPI
+ORD0283,2026-06-29,CUST0279,Headphones,Electronics,1,7382.7,5,7013.56,899.98,Pune,Maharashtra,Cash
+ORD0284,2026-01-08,CUST0297,Skincare Kit,Beauty,1,1052.2,20,841.76,209.98,Noida,Uttar Pradesh,Credit Card
+ORD0285,2026-02-11,CUST0268,Sneakers,Clothing,3,5949.15,0,17847.45,4947.24,Mumbai,Maharashtra,UPI
+ORD0286,2026-06-10,CUST0220,Face Wash,Beauty,3,807.17,15,2058.28,504.82,Kolkata,West Bengal,UPI
+ORD0287,2026-04-20,CUST0246,Sneakers,Clothing,4,6448.75,15,21925.75,4797.71,Kolkata,West Bengal,Net Banking
+ORD0288,2026-01-21,CUST0158,Jacket,Clothing,2,5576.94,5,10596.19,3034.13,Pune,Maharashtra,Debit Card
+ORD0289,2026-03-10,CUST0025,Smartwatch,Electronics,2,17954.71,5,34113.95,3335.91,Gurugram,Haryana,UPI
+ORD0290,2026-07-08,CUST0265,Smartwatch,Electronics,2,13649.98,5,25934.96,2805.99,Bengaluru,Karnataka,Cash
+ORD0291,2026-04-18,CUST0213,Skincare Kit,Beauty,4,1099.02,5,4176.28,1175.79,Lucknow,Uttar Pradesh,UPI
+ORD0292,2026-08-06,CUST0190,Headphones,Electronics,2,7182.79,0,14365.58,1783.87,Ahmedabad,Gujarat,Debit Card
+ORD0293,2026-07-04,CUST0279,Headphones,Electronics,1,2165.41,10,1948.87,193.29,Gurugram,Haryana,Debit Card
+ORD0294,2026-07-31,CUST0272,Perfume,Beauty,3,5238.95,15,13359.32,3413.0,Delhi,Delhi,UPI
+ORD0295,2026-05-04,CUST0001,Headphones,Electronics,4,5867.02,10,21121.27,2070.36,Hyderabad,Telangana,Cash
+ORD0296,2026-08-15,CUST0117,Headphones,Electronics,1,5920.22,5,5624.21,603.47,Chennai,Tamil Nadu,Credit Card
+ORD0297,2026-03-18,CUST0207,Makeup Kit,Beauty,4,4747.05,5,18038.79,5806.46,Lucknow,Uttar Pradesh,UPI
+ORD0298,2026-02-15,CUST0038,Laptop,Electronics,3,75597.94,10,204114.44,19457.72,Ahmedabad,Gujarat,UPI
+ORD0299,2026-04-23,CUST0281,Sneakers,Clothing,3,2470.01,20,5928.02,1177.14,Hyderabad,Telangana,Credit Card
+ORD0300,2026-05-11,CUST0275,Coffee Maker,Home,3,8467.5,0,25402.5,5248.54,Bengaluru,Karnataka,Cash
+ORD0301,2026-05-01,CUST0275,Makeup Kit,Beauty,2,4925.37,10,8865.67,2318.99,Pune,Maharashtra,Net Banking
+ORD0302,2026-03-05,CUST0161,Coffee Maker,Home,1,3919.88,10,3527.89,556.43,Jaipur,Rajasthan,Credit Card
+ORD0303,2026-07-15,CUST0068,Coffee Maker,Home,3,6389.32,5,18209.56,3795.23,Jaipur,Rajasthan,Net Banking
+ORD0304,2026-01-16,CUST0062,Smartphone,Electronics,2,50732.67,5,96392.07,13251.34,Pune,Maharashtra,Cash
+ORD0305,2026-03-10,CUST0276,Table Lamp,Home,4,2040.46,10,7345.66,1438.78,Chennai,Tamil Nadu,UPI
+ORD0306,2026-07-28,CUST0216,Table Lamp,Home,1,964.35,10,867.92,132.45,Bengaluru,Karnataka,Net Banking
+ORD0307,2026-05-27,CUST0026,Sneakers,Clothing,3,4490.72,0,13472.16,3752.91,Jaipur,Rajasthan,UPI
+ORD0308,2026-02-24,CUST0028,Sneakers,Clothing,2,6730.16,10,12114.29,3122.62,Hyderabad,Telangana,UPI
+ORD0309,2026-07-02,CUST0257,Table Lamp,Home,2,1821.63,5,3461.1,594.36,Gurugram,Haryana,UPI
+ORD0310,2026-08-06,CUST0283,T-Shirt,Clothing,1,592.21,0,592.21,113.39,Kolkata,West Bengal,UPI
+ORD0311,2026-06-25,CUST0237,Backpack,Clothing,1,3425.98,5,3254.68,812.86,Bengaluru,Karnataka,Credit Card
+ORD0312,2026-02-12,CUST0090,Perfume,Beauty,2,3679.55,15,6255.24,1444.58,Ahmedabad,Gujarat,Credit Card
+ORD0313,2026-03-29,CUST0037,Perfume,Beauty,2,2248.85,5,4272.81,1439.13,Jaipur,Rajasthan,UPI
+ORD0314,2026-05-21,CUST0192,Perfume,Beauty,3,1746.42,15,4453.37,1309.17,Pune,Maharashtra,Debit Card
+ORD0315,2026-01-19,CUST0072,Hair Dryer,Beauty,3,2577.09,5,7344.71,2000.33,Lucknow,Uttar Pradesh,Net Banking
+ORD0316,2026-07-16,CUST0008,Bedsheet,Home,4,1833.44,5,6967.07,1445.49,Lucknow,Uttar Pradesh,Net Banking
+ORD0317,2026-03-23,CUST0146,Coffee Maker,Home,1,2832.38,15,2407.52,368.94,Hyderabad,Telangana,UPI
+ORD0318,2026-03-25,CUST0113,Laptop,Electronics,2,60968.28,0,121936.56,14464.53,Ahmedabad,Gujarat,UPI
+ORD0319,2026-07-13,CUST0266,Hair Dryer,Beauty,3,2241.7,5,6388.84,1932.83,Noida,Uttar Pradesh,Credit Card
+ORD0320,2026-06-04,CUST0117,Hair Dryer,Beauty,1,4196.5,0,4196.5,1030.75,Kolkata,West Bengal,Net Banking
+ORD0321,2026-06-12,CUST0235,T-Shirt,Clothing,2,1577.72,0,3155.44,595.34,Lucknow,Uttar Pradesh,Credit Card
+ORD0322,2026-01-23,CUST0294,Bedsheet,Home,1,1478.93,0,1478.93,287.93,Jaipur,Rajasthan,Cash
+ORD0323,2026-05-02,CUST0030,Office Chair,Home,3,10589.1,0,31767.3,6143.88,Kolkata,West Bengal,Credit Card
+ORD0324,2026-04-14,CUST0075,Smartphone,Electronics,3,34285.9,15,87429.05,11715.36,Pune,Maharashtra,Credit Card
+ORD0325,2026-01-07,CUST0196,Smartwatch,Electronics,4,8591.1,5,32646.18,3199.63,Chennai,Tamil Nadu,UPI
+ORD0326,2026-08-08,CUST0126,Laptop,Electronics,4,57105.71,5,217001.7,24917.76,Mumbai,Maharashtra,Credit Card
+ORD0327,2026-07-23,CUST0031,Perfume,Beauty,1,4450.18,10,4005.16,1305.71,Ahmedabad,Gujarat,Debit Card
+ORD0328,2026-02-14,CUST0260,Bedsheet,Home,2,2452.44,0,4904.88,934.07,Gurugram,Haryana,UPI
+ORD0329,2026-02-28,CUST0125,Coffee Maker,Home,4,2701.21,5,10264.6,1864.41,Kolkata,West Bengal,Credit Card
+ORD0330,2026-03-28,CUST0134,Backpack,Clothing,1,3240.22,5,3078.21,692.54,Bengaluru,Karnataka,Debit Card
+ORD0331,2026-04-19,CUST0224,Jacket,Clothing,1,6424.86,10,5782.37,1171.85,Delhi,Delhi,UPI
+ORD0332,2026-02-22,CUST0042,Smartwatch,Electronics,1,17691.69,10,15922.52,1847.04,Kolkata,West Bengal,Cash
+ORD0333,2026-02-13,CUST0139,Bedsheet,Home,1,1130.86,10,1017.77,207.82,Chennai,Tamil Nadu,Credit Card
+ORD0334,2026-05-19,CUST0273,Hair Dryer,Beauty,3,1578.35,0,4735.05,1317.69,Mumbai,Maharashtra,Debit Card
+ORD0335,2026-03-26,CUST0008,Skincare Kit,Beauty,1,2483.2,10,2234.88,626.6,Pune,Maharashtra,UPI
+ORD0336,2026-04-08,CUST0267,Perfume,Beauty,2,4612.25,5,8763.28,2985.5,Chennai,Tamil Nadu,Credit Card
+ORD0337,2026-07-28,CUST0184,Cookware Set,Home,1,6323.84,10,5691.46,1103.83,Chennai,Tamil Nadu,UPI
+ORD0338,2026-02-21,CUST0070,Coffee Maker,Home,2,2724.0,0,5448.0,1018.85,Lucknow,Uttar Pradesh,Credit Card
+ORD0339,2026-07-22,CUST0192,Smartwatch,Electronics,1,6929.65,10,6236.68,693.39,Gurugram,Haryana,Credit Card
+ORD0340,2026-06-24,CUST0239,Skincare Kit,Beauty,1,2759.43,20,2207.54,604.67,Bengaluru,Karnataka,Credit Card
+ORD0341,2026-03-22,CUST0225,Bedsheet,Home,3,1610.02,0,4830.06,1054.48,Delhi,Delhi,Net Banking
+ORD0342,2026-07-27,CUST0114,Hair Dryer,Beauty,3,2091.65,5,5961.2,1706.4,Pune,Maharashtra,Credit Card
+ORD0343,2026-07-13,CUST0169,Office Chair,Home,2,16336.63,0,32673.26,5683.57,Lucknow,Uttar Pradesh,UPI
+ORD0344,2026-01-30,CUST0135,Cookware Set,Home,2,6950.84,10,12511.51,2705.96,Pune,Maharashtra,UPI
+ORD0345,2026-05-13,CUST0188,Smartwatch,Electronics,1,15429.24,0,15429.24,1392.83,Ahmedabad,Gujarat,Debit Card
+ORD0346,2026-06-23,CUST0260,Laptop,Electronics,2,74607.25,0,149214.5,16287.78,Mumbai,Maharashtra,Credit Card
+ORD0347,2026-02-14,CUST0061,T-Shirt,Clothing,4,897.98,0,3591.92,963.8,Mumbai,Maharashtra,UPI
+ORD0348,2026-05-24,CUST0188,T-Shirt,Clothing,4,889.44,0,3557.76,966.67,Lucknow,Uttar Pradesh,UPI
+ORD0349,2026-08-03,CUST0120,Bedsheet,Home,3,1933.65,5,5510.9,950.52,Ahmedabad,Gujarat,Credit Card
+ORD0350,2026-05-27,CUST0053,Jeans,Clothing,1,2295.81,10,2066.23,432.73,Chennai,Tamil Nadu,Credit Card
+ORD0351,2026-02-23,CUST0052,Perfume,Beauty,4,4655.0,5,17689.0,5223.63,Ahmedabad,Gujarat,Debit Card
+ORD0352,2026-01-30,CUST0191,Skincare Kit,Beauty,4,1453.22,5,5522.24,1443.42,Kolkata,West Bengal,UPI
+ORD0353,2026-04-08,CUST0127,Sneakers,Clothing,3,3211.33,0,9633.99,2656.08,Ahmedabad,Gujarat,UPI
+ORD0354,2026-01-18,CUST0096,Table Lamp,Home,1,1625.63,0,1625.63,310.32,Noida,Uttar Pradesh,Credit Card
+ORD0355,2026-05-01,CUST0157,Perfume,Beauty,2,1500.91,5,2851.73,758.12,Lucknow,Uttar Pradesh,Net Banking
+ORD0356,2026-03-23,CUST0141,Laptop,Electronics,1,49547.55,15,42115.42,4423.83,Hyderabad,Telangana,Credit Card
+ORD0357,2026-08-06,CUST0217,T-Shirt,Clothing,4,990.51,10,3565.84,709.97,Pune,Maharashtra,Debit Card
+ORD0358,2026-01-24,CUST0011,Backpack,Clothing,1,1261.7,10,1135.53,288.58,Delhi,Delhi,Net Banking
+ORD0359,2026-02-06,CUST0298,Cookware Set,Home,1,6708.71,0,6708.71,1425.91,Lucknow,Uttar Pradesh,UPI
+ORD0360,2026-07-25,CUST0227,Face Wash,Beauty,4,500.33,5,1901.25,532.21,Mumbai,Maharashtra,Credit Card
+ORD0361,2026-01-16,CUST0137,Jeans,Clothing,2,2965.41,10,5337.74,1222.77,Mumbai,Maharashtra,Debit Card
+ORD0362,2026-05-17,CUST0216,Office Chair,Home,2,14496.45,5,27543.26,5625.02,Mumbai,Maharashtra,Net Banking
+ORD0363,2026-02-23,CUST0065,Smartwatch,Electronics,4,13948.26,20,44634.43,4128.93,Lucknow,Uttar Pradesh,Net Banking
+ORD0364,2026-02-13,CUST0053,Office Chair,Home,1,9781.22,15,8314.04,1767.24,Chennai,Tamil Nadu,Debit Card
+ORD0365,2026-06-12,CUST0111,Bedsheet,Home,4,1444.46,15,4911.16,1015.39,Noida,Uttar Pradesh,UPI
+ORD0366,2026-07-07,CUST0230,Table Lamp,Home,4,2068.8,10,7447.68,1640.07,Noida,Uttar Pradesh,Debit Card
+ORD0367,2026-06-30,CUST0170,Face Wash,Beauty,4,752.4,0,3009.6,986.71,Kolkata,West Bengal,Debit Card
+ORD0368,2026-02-02,CUST0055,Jacket,Clothing,2,2364.97,5,4493.44,991.75,Jaipur,Rajasthan,Credit Card
+ORD0369,2026-07-24,CUST0135,Makeup Kit,Beauty,4,3531.63,0,14126.52,3686.68,Hyderabad,Telangana,Net Banking
+ORD0370,2026-07-19,CUST0045,Hair Dryer,Beauty,3,1082.58,15,2760.58,821.93,Ahmedabad,Gujarat,Credit Card
+ORD0371,2026-07-24,CUST0079,Smartwatch,Electronics,1,16441.56,5,15619.48,1590.64,Lucknow,Uttar Pradesh,UPI
+ORD0372,2026-04-06,CUST0143,Table Lamp,Home,2,833.04,20,1332.86,225.43,Ahmedabad,Gujarat,Credit Card
+ORD0373,2026-01-25,CUST0267,Jacket,Clothing,2,2763.41,0,5526.82,1114.1,Noida,Uttar Pradesh,Net Banking
+ORD0374,2026-02-18,CUST0175,Sneakers,Clothing,3,5106.96,0,15320.88,3857.52,Delhi,Delhi,Net Banking
+ORD0375,2026-03-25,CUST0248,Cookware Set,Home,2,2115.27,0,4230.54,684.43,Chennai,Tamil Nadu,UPI
+ORD0376,2026-02-15,CUST0294,Skincare Kit,Beauty,2,1615.18,5,3068.84,874.84,Chennai,Tamil Nadu,Net Banking
+ORD0377,2026-04-03,CUST0008,Skincare Kit,Beauty,2,2276.52,5,4325.39,996.0,Kolkata,West Bengal,UPI
+ORD0378,2026-04-05,CUST0156,Office Chair,Home,1,13766.54,20,11013.23,2350.79,Gurugram,Haryana,Debit Card
+ORD0379,2026-03-31,CUST0139,Jacket,Clothing,3,2725.55,5,7767.82,1772.36,Gurugram,Haryana,Credit Card
+ORD0380,2026-01-04,CUST0108,Skincare Kit,Beauty,3,2402.61,5,6847.44,1551.38,Kolkata,West Bengal,Cash
+ORD0381,2026-01-08,CUST0141,Smartphone,Electronics,3,52502.05,10,141755.54,19407.86,Pune,Maharashtra,Net Banking
+ORD0382,2026-03-29,CUST0242,Smartwatch,Electronics,1,6333.77,5,6017.08,767.21,Hyderabad,Telangana,Debit Card
+ORD0383,2026-06-19,CUST0255,Table Lamp,Home,2,727.84,10,1310.11,236.03,Lucknow,Uttar Pradesh,Debit Card
+ORD0384,2026-04-11,CUST0155,Backpack,Clothing,2,1736.34,10,3125.41,838.63,Kolkata,West Bengal,UPI
+ORD0385,2026-06-04,CUST0034,Headphones,Electronics,1,7283.57,0,7283.57,756.52,Ahmedabad,Gujarat,Net Banking
+ORD0386,2026-04-23,CUST0091,Jeans,Clothing,4,2054.97,0,8219.88,1568.04,Bengaluru,Karnataka,UPI
+ORD0387,2026-03-09,CUST0114,Perfume,Beauty,4,4980.24,5,18924.91,5561.29,Mumbai,Maharashtra,Net Banking
+ORD0388,2026-05-13,CUST0193,Bedsheet,Home,3,2456.43,10,6632.36,1112.04,Jaipur,Rajasthan,UPI
+ORD0389,2026-02-25,CUST0149,Smartphone,Electronics,1,51413.9,20,41131.12,4850.09,Gurugram,Haryana,Credit Card
+ORD0390,2026-02-09,CUST0133,Hair Dryer,Beauty,4,1988.74,5,7557.21,2519.96,Noida,Uttar Pradesh,Credit Card
+ORD0391,2026-02-10,CUST0147,Smartwatch,Electronics,4,15258.99,5,57984.16,5788.25,Ahmedabad,Gujarat,Credit Card
+ORD0392,2026-06-14,CUST0195,Coffee Maker,Home,1,3845.99,5,3653.69,634.35,Bengaluru,Karnataka,UPI
+ORD0393,2026-01-04,CUST0290,Sneakers,Clothing,4,2047.73,10,7371.83,1950.68,Noida,Uttar Pradesh,Net Banking
+ORD0394,2026-02-26,CUST0249,Makeup Kit,Beauty,1,2643.44,5,2511.27,729.79,Jaipur,Rajasthan,UPI
+ORD0395,2026-03-02,CUST0212,T-Shirt,Clothing,2,571.02,5,1084.94,225.51,Chennai,Tamil Nadu,UPI
+ORD0396,2026-06-18,CUST0030,Hair Dryer,Beauty,4,1181.65,20,3781.28,952.56,Hyderabad,Telangana,UPI
+ORD0397,2026-02-08,CUST0016,Face Wash,Beauty,2,780.91,0,1561.82,414.56,Kolkata,West Bengal,Debit Card
+ORD0398,2026-06-11,CUST0255,Sneakers,Clothing,3,5237.27,5,14926.22,3923.85,Gurugram,Haryana,Credit Card
+ORD0399,2026-04-21,CUST0153,Perfume,Beauty,2,5770.66,5,10964.25,2942.86,Hyderabad,Telangana,UPI
+ORD0400,2026-05-07,CUST0088,Keyboard,Electronics,1,1230.57,10,1107.51,108.82,Delhi,Delhi,UPI
+ORD0401,2026-06-16,CUST0126,Cookware Set,Home,3,5514.5,15,14061.98,2246.58,Noida,Uttar Pradesh,UPI
+ORD0402,2026-02-21,CUST0245,Smartphone,Electronics,1,58810.11,0,58810.11,5895.29,Hyderabad,Telangana,Net Banking
+ORD0403,2026-07-14,CUST0271,Perfume,Beauty,3,4689.87,5,13366.13,3888.44,Delhi,Delhi,Credit Card
+ORD0404,2026-02-02,CUST0270,Smartwatch,Electronics,3,8457.5,10,22835.25,2191.51,Noida,Uttar Pradesh,Cash
+ORD0405,2026-06-17,CUST0193,Smartwatch,Electronics,1,11164.2,15,9489.57,1102.96,Delhi,Delhi,UPI
+ORD0406,2026-07-23,CUST0080,Face Wash,Beauty,1,810.72,20,648.58,201.53,Bengaluru,Karnataka,UPI
+ORD0407,2026-01-22,CUST0007,Backpack,Clothing,3,3002.85,5,8558.12,1852.87,Ahmedabad,Gujarat,UPI
+ORD0408,2026-05-04,CUST0113,Headphones,Electronics,3,6984.63,15,17810.81,1613.37,Ahmedabad,Gujarat,UPI
+ORD0409,2026-06-05,CUST0069,Office Chair,Home,4,7488.56,10,26958.82,4764.27,Jaipur,Rajasthan,UPI
+ORD0410,2026-07-13,CUST0047,Laptop,Electronics,4,55001.54,5,209005.85,25607.81,Gurugram,Haryana,Credit Card
+ORD0411,2026-05-27,CUST0128,Laptop,Electronics,2,67460.7,10,121429.26,11605.86,Pune,Maharashtra,Debit Card
+ORD0412,2026-08-06,CUST0062,Makeup Kit,Beauty,2,2039.2,15,3466.64,1160.52,Ahmedabad,Gujarat,Credit Card
+ORD0413,2026-03-23,CUST0219,Perfume,Beauty,2,1694.98,0,3389.96,926.92,Chennai,Tamil Nadu,Credit Card
+ORD0414,2026-05-04,CUST0280,Jeans,Clothing,2,1807.84,10,3254.11,851.0,Mumbai,Maharashtra,Debit Card
+ORD0415,2026-02-10,CUST0148,Office Chair,Home,3,12739.68,0,38219.04,8641.85,Gurugram,Haryana,Credit Card
+ORD0416,2026-05-14,CUST0207,Makeup Kit,Beauty,2,1277.59,5,2427.42,550.57,Bengaluru,Karnataka,Credit Card
+ORD0417,2026-01-02,CUST0065,Jacket,Clothing,4,5121.16,10,18436.18,4426.08,Gurugram,Haryana,UPI
+ORD0418,2026-01-22,CUST0098,Backpack,Clothing,3,2491.87,10,6728.05,1855.59,Gurugram,Haryana,Credit Card
+ORD0419,2026-06-13,CUST0083,Bedsheet,Home,1,1493.86,5,1419.17,319.17,Jaipur,Rajasthan,Net Banking
+ORD0420,2026-05-25,CUST0283,Smartwatch,Electronics,2,13748.75,0,27497.5,3362.34,Kolkata,West Bengal,Credit Card
+ORD0421,2026-04-03,CUST0073,Headphones,Electronics,1,7252.39,15,6164.53,683.23,Hyderabad,Telangana,Credit Card
+ORD0422,2026-07-31,CUST0168,Hair Dryer,Beauty,1,3063.09,10,2756.78,842.14,Mumbai,Maharashtra,Debit Card
+ORD0423,2026-02-12,CUST0290,Cookware Set,Home,3,5641.36,0,16924.08,3020.57,Chennai,Tamil Nadu,UPI
+ORD0424,2026-05-18,CUST0038,Skincare Kit,Beauty,2,2778.38,10,5001.08,1482.2,Pune,Maharashtra,Credit Card
+ORD0425,2026-03-06,CUST0091,Smartwatch,Electronics,1,16957.01,10,15261.31,1664.67,Kolkata,West Bengal,Credit Card
+ORD0426,2026-02-08,CUST0284,Hair Dryer,Beauty,1,3697.6,15,3142.96,927.59,Jaipur,Rajasthan,Net Banking
+ORD0427,2026-04-17,CUST0123,Keyboard,Electronics,4,3599.14,10,12956.9,1421.95,Noida,Uttar Pradesh,Debit Card
+ORD0428,2026-04-08,CUST0063,Sneakers,Clothing,4,4101.24,0,16404.96,4362.06,Mumbai,Maharashtra,UPI
+ORD0429,2026-02-23,CUST0088,Office Chair,Home,1,12784.99,5,12145.74,2310.25,Gurugram,Haryana,Net Banking
+ORD0430,2026-04-12,CUST0038,Cookware Set,Home,3,3261.4,5,9294.99,1881.44,Delhi,Delhi,UPI
+ORD0431,2026-03-24,CUST0291,Keyboard,Electronics,4,4103.39,10,14772.2,1954.67,Hyderabad,Telangana,Cash
+ORD0432,2026-01-21,CUST0061,Laptop,Electronics,4,55843.24,5,212204.31,24735.01,Jaipur,Rajasthan,Credit Card
+ORD0433,2026-02-05,CUST0110,Makeup Kit,Beauty,1,4477.81,5,4253.92,1423.59,Chennai,Tamil Nadu,Credit Card
+ORD0434,2026-01-06,CUST0109,Backpack,Clothing,4,1605.9,15,5460.06,1079.76,Jaipur,Rajasthan,Credit Card
+ORD0435,2026-06-07,CUST0214,Jacket,Clothing,2,5836.44,15,9921.95,2202.46,Bengaluru,Karnataka,UPI
+ORD0436,2026-02-14,CUST0247,Cookware Set,Home,1,5302.96,10,4772.66,862.82,Pune,Maharashtra,UPI
+ORD0437,2026-06-07,CUST0209,Smartphone,Electronics,4,42849.57,10,154258.45,15078.06,Delhi,Delhi,Credit Card
+ORD0438,2026-06-11,CUST0201,Backpack,Clothing,2,3192.32,5,6065.41,1201.16,Hyderabad,Telangana,UPI
+ORD0439,2026-05-23,CUST0152,Office Chair,Home,3,8189.58,5,23340.3,4000.72,Kolkata,West Bengal,Debit Card
+ORD0440,2026-06-24,CUST0141,Jacket,Clothing,2,3754.14,15,6382.04,1629.96,Ahmedabad,Gujarat,Net Banking
+ORD0441,2026-05-08,CUST0282,Smartphone,Electronics,3,13284.21,0,39852.63,4745.28,Pune,Maharashtra,Credit Card
+ORD0442,2026-02-22,CUST0193,Bedsheet,Home,1,1466.16,10,1319.54,279.53,Pune,Maharashtra,UPI
+ORD0443,2026-06-09,CUST0282,Perfume,Beauty,3,5315.08,5,15147.98,4427.47,Chennai,Tamil Nadu,UPI
+ORD0444,2026-04-18,CUST0118,Jacket,Clothing,1,4317.59,5,4101.71,1127.63,Jaipur,Rajasthan,Cash
+ORD0445,2026-05-19,CUST0181,Coffee Maker,Home,3,5818.65,15,14837.56,3273.24,Bengaluru,Karnataka,Credit Card
+ORD0446,2026-01-06,CUST0204,Sneakers,Clothing,4,1880.64,5,7146.43,1387.82,Kolkata,West Bengal,UPI
+ORD0447,2026-03-07,CUST0045,Sneakers,Clothing,4,6833.94,10,24602.18,7028.12,Mumbai,Maharashtra,Net Banking
+ORD0448,2026-07-01,CUST0206,Makeup Kit,Beauty,3,4988.45,0,14965.35,4168.84,Bengaluru,Karnataka,Credit Card
+ORD0449,2026-06-07,CUST0235,Smartwatch,Electronics,4,9695.7,0,38782.8,4141.9,Gurugram,Haryana,Cash
+ORD0450,2026-06-13,CUST0136,Perfume,Beauty,3,2991.56,15,7628.48,2423.85,Jaipur,Rajasthan,Credit Card
+ORD0451,2026-04-09,CUST0211,Keyboard,Electronics,2,2988.51,15,5080.47,583.57,Delhi,Delhi,Debit Card
+ORD0452,2026-05-24,CUST0215,Jeans,Clothing,3,2723.71,15,6945.46,1823.17,Delhi,Delhi,Debit Card
+ORD0453,2026-07-08,CUST0269,Smartwatch,Electronics,1,15715.07,10,14143.56,1379.15,Noida,Uttar Pradesh,Debit Card
+ORD0454,2026-04-04,CUST0222,Face Wash,Beauty,3,381.47,0,1144.41,339.86,Mumbai,Maharashtra,Net Banking
+ORD0455,2026-04-25,CUST0279,Table Lamp,Home,4,2415.23,0,9660.92,1987.18,Lucknow,Uttar Pradesh,Debit Card
+ORD0456,2026-08-10,CUST0061,Perfume,Beauty,2,2505.34,10,4509.61,1359.25,Bengaluru,Karnataka,UPI
+ORD0457,2026-05-15,CUST0278,Bedsheet,Home,1,2204.06,10,1983.65,332.26,Hyderabad,Telangana,UPI
+ORD0458,2026-04-11,CUST0204,Cookware Set,Home,4,6072.57,10,21861.25,3607.5,Hyderabad,Telangana,UPI
+ORD0459,2026-03-20,CUST0005,Sneakers,Clothing,3,1961.98,5,5591.64,1280.62,Bengaluru,Karnataka,Debit Card
+ORD0460,2026-06-06,CUST0104,Coffee Maker,Home,2,6834.51,5,12985.57,2156.71,Ahmedabad,Gujarat,Debit Card
+ORD0461,2026-06-25,CUST0027,Skincare Kit,Beauty,3,3081.15,15,7856.93,2434.24,Kolkata,West Bengal,Net Banking
+ORD0462,2026-06-12,CUST0143,Office Chair,Home,3,17136.42,15,43697.87,9554.18,Gurugram,Haryana,UPI
+ORD0463,2026-07-22,CUST0291,Bedsheet,Home,4,1021.14,15,3471.88,756.64,Kolkata,West Bengal,UPI
+ORD0464,2026-07-05,CUST0003,Coffee Maker,Home,1,8457.92,10,7612.13,1165.53,Gurugram,Haryana,Debit Card
+ORD0465,2026-07-13,CUST0074,Backpack,Clothing,4,1915.54,20,6129.73,1613.18,Gurugram,Haryana,UPI
+ORD0466,2026-01-28,CUST0197,Makeup Kit,Beauty,3,3234.89,15,8248.97,2775.75,Pune,Maharashtra,Debit Card
+ORD0467,2026-07-31,CUST0166,Keyboard,Electronics,4,4981.65,5,18930.27,2486.12,Noida,Uttar Pradesh,Credit Card
+ORD0468,2026-04-30,CUST0075,Office Chair,Home,1,17339.61,10,15605.65,3186.71,Mumbai,Maharashtra,UPI
+ORD0469,2026-05-30,CUST0064,Keyboard,Electronics,3,1028.44,10,2776.79,336.37,Noida,Uttar Pradesh,Cash
+ORD0470,2026-04-03,CUST0142,Laptop,Electronics,4,51277.46,0,205109.84,24167.45,Delhi,Delhi,UPI
+ORD0471,2026-04-28,CUST0020,Skincare Kit,Beauty,3,2903.58,0,8710.74,2434.04,Ahmedabad,Gujarat,Net Banking
+ORD0472,2026-06-26,CUST0230,Headphones,Electronics,2,5545.42,5,10536.3,1026.0,Chennai,Tamil Nadu,Debit Card
+ORD0473,2026-08-06,CUST0209,Office Chair,Home,4,12706.92,10,45744.91,9433.11,Ahmedabad,Gujarat,Debit Card
+ORD0474,2026-07-03,CUST0155,Makeup Kit,Beauty,2,1909.77,10,3437.59,860.59,Gurugram,Haryana,Debit Card
+ORD0475,2026-02-26,CUST0264,Jacket,Clothing,4,6487.02,5,24650.68,6325.89,Pune,Maharashtra,Net Banking
+ORD0476,2026-03-05,CUST0298,Coffee Maker,Home,3,4679.31,5,13336.03,2422.85,Delhi,Delhi,Net Banking
+ORD0477,2026-01-20,CUST0050,Hair Dryer,Beauty,2,2931.57,0,5863.14,1467.52,Mumbai,Maharashtra,UPI
+ORD0478,2026-02-09,CUST0072,Backpack,Clothing,3,1094.54,0,3283.62,935.2,Jaipur,Rajasthan,Credit Card
+ORD0479,2026-05-18,CUST0039,Sneakers,Clothing,4,2877.82,5,10935.72,2304.71,Lucknow,Uttar Pradesh,Credit Card
+ORD0480,2026-08-11,CUST0166,Smartwatch,Electronics,4,12946.91,20,41430.11,4067.01,Hyderabad,Telangana,Net Banking
+ORD0481,2026-07-11,CUST0266,Smartphone,Electronics,3,60100.23,10,162270.62,20865.18,Chennai,Tamil Nadu,Credit Card
+ORD0482,2026-03-06,CUST0247,Coffee Maker,Home,4,4525.98,5,17198.72,3251.02,Delhi,Delhi,Net Banking
+ORD0483,2026-05-21,CUST0089,Backpack,Clothing,2,3038.19,5,5772.56,1292.37,Kolkata,West Bengal,Credit Card
+ORD0484,2026-06-16,CUST0013,Hair Dryer,Beauty,1,4471.21,15,3800.53,998.27,Pune,Maharashtra,Net Banking
+ORD0485,2026-07-10,CUST0038,Jacket,Clothing,2,6219.97,0,12439.94,2941.29,Jaipur,Rajasthan,Cash
+ORD0486,2026-07-06,CUST0224,Jeans,Clothing,4,1469.13,5,5582.69,1230.0,Hyderabad,Telangana,UPI
+ORD0487,2026-07-07,CUST0270,Bedsheet,Home,1,2312.8,0,2312.8,451.96,Jaipur,Rajasthan,Debit Card
+ORD0488,2026-07-10,CUST0120,Smartwatch,Electronics,4,17538.65,5,66646.87,8114.92,Kolkata,West Bengal,UPI
+ORD0489,2026-07-19,CUST0247,Headphones,Electronics,1,2687.23,5,2552.87,340.43,Kolkata,West Bengal,Credit Card
+ORD0490,2026-06-26,CUST0287,T-Shirt,Clothing,3,986.91,15,2516.62,696.85,Lucknow,Uttar Pradesh,Credit Card
+ORD0491,2026-03-25,CUST0013,Keyboard,Electronics,1,1535.52,0,1535.52,156.82,Chennai,Tamil Nadu,Debit Card
+ORD0492,2026-08-13,CUST0273,Backpack,Clothing,4,2960.75,5,11250.85,2370.62,Hyderabad,Telangana,UPI
+ORD0493,2026-08-06,CUST0111,Sneakers,Clothing,1,6587.85,15,5599.67,1391.49,Gurugram,Haryana,Net Banking
+ORD0494,2026-07-29,CUST0286,Jeans,Clothing,4,1214.8,10,4373.28,887.55,Mumbai,Maharashtra,Net Banking
+ORD0495,2026-04-22,CUST0055,Skincare Kit,Beauty,2,1874.24,5,3561.06,1089.43,Chennai,Tamil Nadu,Debit Card
+ORD0496,2026-08-03,CUST0180,Hair Dryer,Beauty,1,3152.95,5,2995.3,951.99,Chennai,Tamil Nadu,UPI
+ORD0497,2026-07-27,CUST0265,Makeup Kit,Beauty,3,4706.37,0,14119.11,3219.11,Mumbai,Maharashtra,UPI
+ORD0498,2026-07-09,CUST0268,Table Lamp,Home,2,2366.58,15,4023.19,664.35,Gurugram,Haryana,Credit Card
+ORD0499,2026-08-13,CUST0221,Sneakers,Clothing,3,2839.17,10,7665.76,1533.52,Delhi,Delhi,Net Banking
+ORD0500,2026-02-23,CUST0200,Sneakers,Clothing,2,6631.55,5,12599.94,2763.23,Bengaluru,Karnataka,Debit Card
+ORD0501,2026-03-24,CUST0156,Headphones,Electronics,4,4046.36,0,16185.44,2203.67,Ahmedabad,Gujarat,Credit Card
+ORD0502,2026-04-25,CUST0244,T-Shirt,Clothing,2,1382.05,5,2625.9,655.06,Chennai,Tamil Nadu,Debit Card
+ORD0503,2026-04-15,CUST0228,Perfume,Beauty,2,2551.76,5,4848.34,1485.4,Delhi,Delhi,Debit Card
+ORD0504,2026-01-28,CUST0210,Coffee Maker,Home,4,7664.13,5,29123.69,4552.47,Gurugram,Haryana,Net Banking
+ORD0505,2026-06-04,CUST0137,Laptop,Electronics,4,77741.96,15,264322.66,29534.11,Kolkata,West Bengal,UPI
+ORD0506,2026-03-08,CUST0250,Table Lamp,Home,3,1327.78,20,3186.67,591.88,Mumbai,Maharashtra,UPI
+ORD0507,2026-06-01,CUST0005,Backpack,Clothing,4,3252.39,10,11708.6,2871.99,Bengaluru,Karnataka,UPI
+ORD0508,2026-06-24,CUST0162,Face Wash,Beauty,3,759.73,5,2165.23,659.58,Noida,Uttar Pradesh,Net Banking
+ORD0509,2026-03-30,CUST0066,Skincare Kit,Beauty,3,3218.02,5,9171.36,2392.47,Delhi,Delhi,UPI
+ORD0510,2026-02-07,CUST0253,Makeup Kit,Beauty,2,4306.89,0,8613.78,2440.27,Hyderabad,Telangana,Credit Card
+ORD0511,2026-05-13,CUST0070,Coffee Maker,Home,2,6374.53,10,11474.15,2256.83,Noida,Uttar Pradesh,Net Banking
+ORD0512,2026-08-15,CUST0214,Face Wash,Beauty,3,391.64,10,1057.43,356.13,Lucknow,Uttar Pradesh,Credit Card
+ORD0513,2026-07-22,CUST0061,Headphones,Electronics,2,3993.83,5,7588.28,686.88,Pune,Maharashtra,Debit Card
+ORD0514,2026-03-14,CUST0059,Bedsheet,Home,1,928.62,0,928.62,212.14,Chennai,Tamil Nadu,Credit Card
+ORD0515,2026-06-16,CUST0090,Laptop,Electronics,3,69489.68,10,187622.14,21679.74,Lucknow,Uttar Pradesh,Cash
+ORD0516,2026-04-13,CUST0223,Sneakers,Clothing,1,3341.06,5,3174.01,729.56,Jaipur,Rajasthan,Cash
+ORD0517,2026-01-22,CUST0040,Cookware Set,Home,3,2550.41,0,7651.23,1571.26,Pune,Maharashtra,Net Banking
+ORD0518,2026-01-22,CUST0166,Laptop,Electronics,3,53850.03,10,145395.08,19350.88,Delhi,Delhi,Net Banking
+ORD0519,2026-06-15,CUST0078,Face Wash,Beauty,3,485.66,0,1456.98,425.26,Delhi,Delhi,Net Banking
+ORD0520,2026-01-13,CUST0241,Headphones,Electronics,3,2704.42,0,8113.26,954.69,Gurugram,Haryana,UPI
+ORD0521,2026-06-11,CUST0026,Headphones,Electronics,1,1313.94,15,1116.85,137.18,Jaipur,Rajasthan,Net Banking
+ORD0522,2026-01-14,CUST0013,Makeup Kit,Beauty,3,1924.07,10,5194.99,1774.29,Delhi,Delhi,UPI
+ORD0523,2026-03-22,CUST0100,Table Lamp,Home,3,967.62,10,2612.57,401.09,Bengaluru,Karnataka,Debit Card
+ORD0524,2026-02-19,CUST0065,Face Wash,Beauty,4,280.41,10,1009.48,272.37,Gurugram,Haryana,Credit Card
+ORD0525,2026-02-09,CUST0187,Smartwatch,Electronics,2,8904.17,10,16027.51,1656.42,Hyderabad,Telangana,UPI
+ORD0526,2026-01-31,CUST0259,Face Wash,Beauty,1,277.24,5,263.38,75.64,Mumbai,Maharashtra,UPI
+ORD0527,2026-04-18,CUST0103,Cookware Set,Home,1,5603.73,5,5323.54,1154.78,Pune,Maharashtra,Debit Card
+ORD0528,2026-08-09,CUST0060,Face Wash,Beauty,2,512.09,5,972.97,223.94,Chennai,Tamil Nadu,Credit Card
+ORD0529,2026-01-04,CUST0093,Bedsheet,Home,2,1918.69,10,3453.64,751.42,Lucknow,Uttar Pradesh,Net Banking
+ORD0530,2026-07-31,CUST0006,Backpack,Clothing,4,3094.95,10,11141.82,2394.81,Noida,Uttar Pradesh,UPI
+ORD0531,2026-03-22,CUST0297,Headphones,Electronics,3,6833.72,20,16400.93,2236.36,Hyderabad,Telangana,UPI
+ORD0532,2026-07-24,CUST0251,T-Shirt,Clothing,1,1072.75,5,1019.11,270.91,Gurugram,Haryana,Cash
+ORD0533,2026-03-14,CUST0279,Jacket,Clothing,3,4636.59,5,13214.28,3047.19,Gurugram,Haryana,UPI
+ORD0534,2026-08-14,CUST0237,Cookware Set,Home,4,3983.21,10,14339.56,2629.52,Lucknow,Uttar Pradesh,Credit Card
+ORD0535,2026-05-07,CUST0025,Cookware Set,Home,2,5737.87,10,10328.17,2119.68,Pune,Maharashtra,Debit Card
+ORD0536,2026-08-02,CUST0173,Makeup Kit,Beauty,2,2276.06,5,4324.51,985.32,Chennai,Tamil Nadu,UPI
+ORD0537,2026-02-23,CUST0272,Perfume,Beauty,4,2311.08,5,8782.1,2013.84,Mumbai,Maharashtra,Credit Card
+ORD0538,2026-06-24,CUST0239,Skincare Kit,Beauty,3,3116.48,10,8414.5,1904.68,Lucknow,Uttar Pradesh,UPI
+ORD0539,2026-06-04,CUST0283,Table Lamp,Home,4,1537.46,20,4919.87,952.17,Gurugram,Haryana,Credit Card
+ORD0540,2026-01-12,CUST0141,Sneakers,Clothing,3,6502.07,10,17555.59,3633.04,Lucknow,Uttar Pradesh,Cash
+ORD0541,2026-03-31,CUST0208,Perfume,Beauty,1,2264.55,5,2151.32,695.04,Chennai,Tamil Nadu,UPI
+ORD0542,2026-06-29,CUST0124,Cookware Set,Home,2,6327.58,5,12022.4,2122.67,Pune,Maharashtra,Debit Card
+ORD0543,2026-01-21,CUST0064,Headphones,Electronics,3,4493.86,10,12133.42,1185.99,Noida,Uttar Pradesh,UPI
+ORD0544,2026-08-12,CUST0272,Makeup Kit,Beauty,1,3144.4,5,2987.18,801.55,Kolkata,West Bengal,UPI
+ORD0545,2026-08-09,CUST0022,Smartwatch,Electronics,3,11565.0,10,31225.5,3100.22,Kolkata,West Bengal,UPI
+ORD0546,2026-03-20,CUST0148,Cookware Set,Home,3,3345.89,0,10037.67,2026.09,Hyderabad,Telangana,Debit Card
+ORD0547,2026-01-22,CUST0300,Smartwatch,Electronics,1,4136.67,0,4136.67,518.83,Chennai,Tamil Nadu,UPI
+ORD0548,2026-07-04,CUST0189,Backpack,Clothing,3,2055.77,20,4933.85,1407.27,Bengaluru,Karnataka,Debit Card
+ORD0549,2026-04-06,CUST0144,Smartphone,Electronics,2,37192.97,5,70666.64,7480.32,Delhi,Delhi,Debit Card
+ORD0550,2026-01-04,CUST0095,Jeans,Clothing,3,3349.2,5,9545.22,1913.03,Chennai,Tamil Nadu,Credit Card
+ORD0551,2026-05-10,CUST0106,Office Chair,Home,1,17895.52,10,16105.97,3422.09,Pune,Maharashtra,Net Banking
+ORD0552,2026-01-12,CUST0195,Table Lamp,Home,3,840.32,20,2016.77,411.23,Bengaluru,Karnataka,Debit Card
+ORD0553,2026-06-15,CUST0284,Perfume,Beauty,1,5730.86,10,5157.77,1516.61,Hyderabad,Telangana,Debit Card
+ORD0554,2026-02-11,CUST0246,Backpack,Clothing,4,2700.12,5,10260.46,2602.2,Kolkata,West Bengal,UPI
+ORD0555,2026-03-30,CUST0012,Makeup Kit,Beauty,3,3775.67,10,10194.31,2711.26,Noida,Uttar Pradesh,UPI
+ORD0556,2026-02-08,CUST0060,Table Lamp,Home,2,764.04,0,1528.08,260.82,Hyderabad,Telangana,Debit Card
+ORD0557,2026-03-19,CUST0194,Hair Dryer,Beauty,4,2918.51,5,11090.34,3338.3,Jaipur,Rajasthan,UPI
+ORD0558,2026-04-20,CUST0146,Table Lamp,Home,4,2061.64,10,7421.9,1410.33,Noida,Uttar Pradesh,UPI
+ORD0559,2026-01-22,CUST0206,Smartphone,Electronics,4,65201.55,0,260806.2,34133.41,Hyderabad,Telangana,Cash
+ORD0560,2026-02-07,CUST0195,Smartwatch,Electronics,4,11884.96,10,42785.86,5246.5,Mumbai,Maharashtra,UPI
+ORD0561,2026-07-25,CUST0231,Bedsheet,Home,3,1262.32,15,3218.92,566.74,Bengaluru,Karnataka,UPI
+ORD0562,2026-02-15,CUST0288,T-Shirt,Clothing,1,1390.01,10,1251.01,304.19,Pune,Maharashtra,Cash
+ORD0563,2026-04-26,CUST0104,Perfume,Beauty,3,5191.29,5,14795.18,3893.96,Gurugram,Haryana,UPI
+ORD0564,2026-03-24,CUST0110,Coffee Maker,Home,1,3268.42,0,3268.42,574.65,Lucknow,Uttar Pradesh,UPI
+ORD0565,2026-06-02,CUST0095,Sneakers,Clothing,4,6450.9,10,23223.24,5549.1,Kolkata,West Bengal,Credit Card
+ORD0566,2026-06-21,CUST0096,Bedsheet,Home,3,2481.02,5,7070.91,1114.36,Hyderabad,Telangana,UPI
+ORD0567,2026-01-20,CUST0046,Cookware Set,Home,3,6879.33,10,18574.19,4084.27,Bengaluru,Karnataka,Credit Card
+ORD0568,2026-06-10,CUST0131,Cookware Set,Home,2,3455.18,10,6219.32,1272.32,Bengaluru,Karnataka,Debit Card
+ORD0569,2026-01-04,CUST0243,Keyboard,Electronics,4,3229.67,10,11626.81,1189.7,Pune,Maharashtra,Credit Card
+ORD0570,2026-08-08,CUST0052,T-Shirt,Clothing,3,620.25,0,1860.75,353.67,Kolkata,West Bengal,Credit Card
+ORD0571,2026-04-25,CUST0026,Bedsheet,Home,3,2244.93,5,6398.05,1241.76,Noida,Uttar Pradesh,UPI
+ORD0572,2026-01-12,CUST0207,Bedsheet,Home,4,1720.34,10,6193.22,1341.41,Bengaluru,Karnataka,Credit Card
+ORD0573,2026-01-19,CUST0230,Coffee Maker,Home,2,2812.6,15,4781.42,733.12,Gurugram,Haryana,Debit Card
+ORD0574,2026-01-07,CUST0267,Laptop,Electronics,4,79196.11,10,285106.0,35652.69,Ahmedabad,Gujarat,Net Banking
+ORD0575,2026-04-27,CUST0046,Smartwatch,Electronics,2,5444.01,10,9799.22,1040.58,Bengaluru,Karnataka,Debit Card
+ORD0576,2026-04-28,CUST0260,Face Wash,Beauty,1,286.97,15,243.92,63.75,Hyderabad,Telangana,Credit Card
+ORD0577,2026-06-22,CUST0279,Perfume,Beauty,2,4445.3,5,8446.07,2847.74,Pune,Maharashtra,UPI
+ORD0578,2026-06-13,CUST0270,Office Chair,Home,2,17601.18,15,29922.01,5605.54,Delhi,Delhi,UPI
+ORD0579,2026-08-05,CUST0106,Perfume,Beauty,2,1710.42,5,3249.8,887.47,Ahmedabad,Gujarat,Debit Card
+ORD0580,2026-03-22,CUST0210,Makeup Kit,Beauty,4,2527.49,15,8593.47,2903.39,Kolkata,West Bengal,UPI
+ORD0581,2026-02-21,CUST0161,Backpack,Clothing,3,2141.28,10,5781.46,1148.32,Gurugram,Haryana,UPI
+ORD0582,2026-03-12,CUST0178,Smartphone,Electronics,4,14209.01,5,53994.24,5011.27,Delhi,Delhi,Net Banking
+ORD0583,2026-02-12,CUST0283,Headphones,Electronics,4,1992.05,15,6772.97,785.21,Gurugram,Haryana,Credit Card
+ORD0584,2026-01-31,CUST0260,Skincare Kit,Beauty,1,1264.63,0,1264.63,307.52,Gurugram,Haryana,Debit Card
+ORD0585,2026-07-22,CUST0066,Jeans,Clothing,2,3361.01,5,6385.92,1518.25,Kolkata,West Bengal,Debit Card
+ORD0586,2026-03-31,CUST0087,Smartwatch,Electronics,1,14643.78,0,14643.78,1794.85,Noida,Uttar Pradesh,UPI
+ORD0587,2026-04-05,CUST0254,T-Shirt,Clothing,4,1438.69,15,4891.55,1146.83,Mumbai,Maharashtra,Net Banking
+ORD0588,2026-05-17,CUST0246,Backpack,Clothing,1,2151.32,10,1936.19,482.68,Pune,Maharashtra,UPI
+ORD0589,2026-06-21,CUST0274,Laptop,Electronics,1,64841.25,5,61599.19,7447.95,Chennai,Tamil Nadu,Credit Card
+ORD0590,2026-04-05,CUST0011,Office Chair,Home,2,10971.31,5,20845.49,3864.88,Gurugram,Haryana,Cash
+ORD0591,2026-05-07,CUST0134,Skincare Kit,Beauty,2,1514.07,10,2725.33,794.6,Lucknow,Uttar Pradesh,Credit Card
+ORD0592,2026-06-26,CUST0265,Face Wash,Beauty,3,813.09,10,2195.34,552.04,Pune,Maharashtra,UPI
+ORD0593,2026-02-08,CUST0271,Keyboard,Electronics,2,3338.31,5,6342.79,825.75,Gurugram,Haryana,Debit Card
+ORD0594,2026-05-20,CUST0111,Cookware Set,Home,2,2543.4,5,4832.46,874.37,Kolkata,West Bengal,Net Banking
+ORD0595,2026-06-28,CUST0085,Hair Dryer,Beauty,4,4092.48,15,13914.43,3373.4,Hyderabad,Telangana,UPI
+ORD0596,2026-03-12,CUST0015,Sneakers,Clothing,1,4784.1,20,3827.28,794.87,Chennai,Tamil Nadu,Debit Card
+ORD0597,2026-07-27,CUST0110,Smartphone,Electronics,4,22746.06,10,81885.82,9143.15,Noida,Uttar Pradesh,Credit Card
+ORD0598,2026-06-13,CUST0279,Perfume,Beauty,4,1570.5,20,5025.6,1611.1,Jaipur,Rajasthan,Net Banking
+ORD0599,2026-05-26,CUST0092,Cookware Set,Home,1,5589.69,0,5589.69,1009.34,Lucknow,Uttar Pradesh,Debit Card
+ORD0600,2026-08-14,CUST0006,Cookware Set,Home,4,3951.13,0,15804.52,2794.71,Jaipur,Rajasthan,Debit Card
+ORD0601,2026-03-23,CUST0066,Face Wash,Beauty,1,324.59,5,308.36,72.97,Kolkata,West Bengal,Credit Card
+ORD0602,2026-07-02,CUST0203,Bedsheet,Home,3,1607.65,10,4340.66,802.87,Jaipur,Rajasthan,Cash
+ORD0603,2026-07-12,CUST0051,Jeans,Clothing,2,1753.54,20,2805.66,730.94,Ahmedabad,Gujarat,Debit Card
+ORD0604,2026-05-27,CUST0028,Hair Dryer,Beauty,3,2169.67,5,6183.56,1934.14,Delhi,Delhi,Cash
+ORD0605,2026-03-18,CUST0126,Perfume,Beauty,3,5794.55,0,17383.65,4778.73,Kolkata,West Bengal,Credit Card
+ORD0606,2026-07-02,CUST0214,Face Wash,Beauty,3,661.32,5,1884.76,454.15,Lucknow,Uttar Pradesh,Net Banking
+ORD0607,2026-06-20,CUST0158,Sneakers,Clothing,1,2463.36,5,2340.19,521.97,Pune,Maharashtra,Net Banking
+ORD0608,2026-02-14,CUST0088,Skincare Kit,Beauty,1,2354.1,10,2118.69,527.25,Gurugram,Haryana,Debit Card
+ORD0609,2026-04-01,CUST0137,Sneakers,Clothing,3,3123.61,10,8433.75,2056.9,Kolkata,West Bengal,Debit Card
+ORD0610,2026-04-27,CUST0092,Sneakers,Clothing,1,4972.56,5,4723.93,1035.63,Kolkata,West Bengal,Credit Card
+ORD0611,2026-02-07,CUST0075,Jacket,Clothing,2,2658.93,0,5317.86,1260.99,Jaipur,Rajasthan,Credit Card
+ORD0612,2026-07-11,CUST0241,Sneakers,Clothing,1,2468.7,5,2345.26,461.18,Mumbai,Maharashtra,Credit Card
+ORD0613,2026-05-06,CUST0226,Bedsheet,Home,1,1231.14,0,1231.14,186.89,Lucknow,Uttar Pradesh,Debit Card
+ORD0614,2026-08-13,CUST0236,Hair Dryer,Beauty,2,3140.76,15,5339.29,1567.91,Bengaluru,Karnataka,Cash
+ORD0615,2026-04-06,CUST0048,Skincare Kit,Beauty,1,1627.32,10,1464.59,433.16,Kolkata,West Bengal,UPI
+ORD0616,2026-05-05,CUST0015,Backpack,Clothing,1,2908.94,5,2763.49,596.44,Hyderabad,Telangana,Credit Card
+ORD0617,2026-05-01,CUST0069,Sneakers,Clothing,1,5278.16,5,5014.25,1073.55,Bengaluru,Karnataka,Credit Card
+ORD0618,2026-04-19,CUST0189,Makeup Kit,Beauty,3,4211.64,10,11371.43,3830.0,Noida,Uttar Pradesh,UPI
+ORD0619,2026-01-11,CUST0099,Sneakers,Clothing,3,5120.14,5,14592.4,4045.58,Chennai,Tamil Nadu,Net Banking
+ORD0620,2026-03-14,CUST0199,Backpack,Clothing,4,3133.69,5,11908.02,2657.36,Lucknow,Uttar Pradesh,UPI
+ORD0621,2026-06-28,CUST0197,Jeans,Clothing,3,3446.09,0,10338.27,2337.42,Noida,Uttar Pradesh,Debit Card
+ORD0622,2026-04-13,CUST0220,Skincare Kit,Beauty,3,1687.11,0,5061.33,1546.77,Noida,Uttar Pradesh,UPI
+ORD0623,2026-07-30,CUST0214,T-Shirt,Clothing,3,977.05,5,2784.59,701.78,Chennai,Tamil Nadu,Credit Card
+ORD0624,2026-01-15,CUST0217,Hair Dryer,Beauty,2,2831.93,10,5097.47,1703.12,Hyderabad,Telangana,UPI
+ORD0625,2026-02-18,CUST0144,Headphones,Electronics,1,6953.64,10,6258.28,755.97,Bengaluru,Karnataka,Credit Card
+ORD0626,2026-01-17,CUST0191,Sneakers,Clothing,2,6024.43,5,11446.42,3072.02,Noida,Uttar Pradesh,Net Banking
+ORD0627,2026-08-03,CUST0134,Jeans,Clothing,2,3171.63,5,6026.1,1679.36,Mumbai,Maharashtra,Debit Card
+ORD0628,2026-01-28,CUST0075,Perfume,Beauty,3,4412.91,10,11914.86,2852.35,Mumbai,Maharashtra,Net Banking
+ORD0629,2026-03-13,CUST0179,Coffee Maker,Home,4,5395.16,5,20501.61,4161.52,Gurugram,Haryana,Net Banking
+ORD0630,2026-07-15,CUST0035,Jeans,Clothing,1,1502.88,10,1352.59,264.7,Kolkata,West Bengal,Net Banking
+ORD0631,2026-06-21,CUST0087,Bedsheet,Home,3,891.18,20,2138.83,358.08,Pune,Maharashtra,UPI
+ORD0632,2026-07-06,CUST0209,Office Chair,Home,1,13796.38,0,13796.38,2864.55,Jaipur,Rajasthan,Credit Card
+ORD0633,2026-01-14,CUST0253,Keyboard,Electronics,3,4921.21,10,13287.27,1263.08,Hyderabad,Telangana,Net Banking
+ORD0634,2026-03-20,CUST0079,Perfume,Beauty,4,2660.36,0,10641.44,2915.05,Mumbai,Maharashtra,Net Banking
+ORD0635,2026-04-08,CUST0189,Cookware Set,Home,3,6284.98,5,17912.19,3043.34,Jaipur,Rajasthan,UPI
+ORD0636,2026-04-03,CUST0098,Makeup Kit,Beauty,1,3131.46,0,3131.46,800.64,Jaipur,Rajasthan,UPI
+ORD0637,2026-04-01,CUST0209,Jeans,Clothing,3,3223.8,0,9671.4,2215.58,Ahmedabad,Gujarat,Credit Card
+ORD0638,2026-05-02,CUST0128,Makeup Kit,Beauty,1,2630.99,15,2236.34,743.37,Mumbai,Maharashtra,Credit Card
+ORD0639,2026-04-04,CUST0081,Perfume,Beauty,3,2528.98,10,6828.25,1956.6,Mumbai,Maharashtra,Net Banking
+ORD0640,2026-07-20,CUST0197,Keyboard,Electronics,4,1890.33,5,7183.25,665.36,Ahmedabad,Gujarat,Net Banking
+ORD0641,2026-07-02,CUST0157,Smartphone,Electronics,4,12013.17,10,43247.41,4476.4,Mumbai,Maharashtra,UPI
+ORD0642,2026-05-12,CUST0260,Coffee Maker,Home,3,8195.25,15,20897.89,3854.47,Ahmedabad,Gujarat,UPI
+ORD0643,2026-07-07,CUST0070,Office Chair,Home,1,14672.37,10,13205.13,2097.61,Hyderabad,Telangana,UPI
+ORD0644,2026-01-18,CUST0182,Smartphone,Electronics,2,15122.17,5,28732.12,3447.39,Ahmedabad,Gujarat,UPI
+ORD0645,2026-07-01,CUST0286,Keyboard,Electronics,1,3683.36,10,3315.02,435.43,Pune,Maharashtra,Debit Card
+ORD0646,2026-08-02,CUST0193,Smartwatch,Electronics,4,17827.03,5,67742.71,7925.67,Kolkata,West Bengal,Net Banking
+ORD0647,2026-06-24,CUST0298,Perfume,Beauty,3,5316.15,5,15151.03,4381.06,Jaipur,Rajasthan,UPI
+ORD0648,2026-07-01,CUST0241,Hair Dryer,Beauty,4,1063.96,15,3617.46,814.19,Delhi,Delhi,UPI
+ORD0649,2026-03-03,CUST0286,Cookware Set,Home,2,2761.59,10,4970.86,861.49,Bengaluru,Karnataka,Credit Card
+ORD0650,2026-01-31,CUST0158,Office Chair,Home,1,16768.89,10,15092.0,2912.2,Delhi,Delhi,UPI
+ORD0651,2026-07-14,CUST0056,Perfume,Beauty,3,2710.22,0,8130.66,2593.51,Kolkata,West Bengal,UPI
+ORD0652,2026-06-14,CUST0179,Table Lamp,Home,2,747.74,0,1495.48,322.58,Kolkata,West Bengal,Credit Card
+ORD0653,2026-03-06,CUST0100,Face Wash,Beauty,1,359.73,5,341.74,85.6,Lucknow,Uttar Pradesh,Net Banking
+ORD0654,2026-04-18,CUST0162,Office Chair,Home,3,5186.96,15,13226.75,2194.81,Pune,Maharashtra,Credit Card
+ORD0655,2026-06-27,CUST0125,Smartwatch,Electronics,4,14195.32,0,56781.28,6994.31,Noida,Uttar Pradesh,Credit Card
+ORD0656,2026-02-27,CUST0198,Table Lamp,Home,4,2531.81,5,9620.88,1953.7,Chennai,Tamil Nadu,Cash
+ORD0657,2026-01-27,CUST0282,T-Shirt,Clothing,3,1037.57,20,2490.17,519.17,Lucknow,Uttar Pradesh,Debit Card
+ORD0658,2026-02-24,CUST0097,Smartwatch,Electronics,4,5275.97,0,21103.88,2614.47,Mumbai,Maharashtra,Credit Card
+ORD0659,2026-03-28,CUST0034,T-Shirt,Clothing,2,996.1,5,1892.59,500.21,Bengaluru,Karnataka,Credit Card
+ORD0660,2026-05-15,CUST0105,Jacket,Clothing,3,6112.94,15,15588.0,4008.55,Gurugram,Haryana,UPI
+ORD0661,2026-06-07,CUST0228,Coffee Maker,Home,2,6864.14,5,13041.87,2111.22,Mumbai,Maharashtra,Credit Card
+ORD0662,2026-02-25,CUST0208,Perfume,Beauty,3,3244.79,5,9247.65,2413.52,Lucknow,Uttar Pradesh,Debit Card
+ORD0663,2026-07-05,CUST0130,Cookware Set,Home,4,5748.42,5,21844.0,4096.26,Mumbai,Maharashtra,Credit Card
+ORD0664,2026-08-13,CUST0203,Skincare Kit,Beauty,3,3185.95,0,9557.85,2623.48,Noida,Uttar Pradesh,UPI
+ORD0665,2026-04-20,CUST0120,Keyboard,Electronics,1,2313.65,5,2197.97,206.32,Ahmedabad,Gujarat,Credit Card
+ORD0666,2026-03-09,CUST0273,Keyboard,Electronics,4,4365.48,5,16588.82,1591.13,Jaipur,Rajasthan,UPI
+ORD0667,2026-06-06,CUST0152,Face Wash,Beauty,2,628.02,10,1130.44,328.51,Pune,Maharashtra,UPI
+ORD0668,2026-03-14,CUST0014,Perfume,Beauty,4,2138.2,5,8125.16,2412.56,Delhi,Delhi,Debit Card
+ORD0669,2026-01-09,CUST0205,Smartwatch,Electronics,4,17256.97,10,62125.09,7317.74,Lucknow,Uttar Pradesh,UPI
+ORD0670,2026-06-03,CUST0154,Cookware Set,Home,3,2926.21,10,7900.77,1766.11,Jaipur,Rajasthan,UPI
+ORD0671,2026-01-17,CUST0076,Perfume,Beauty,1,3335.29,0,3335.29,1117.54,Bengaluru,Karnataka,Cash
+ORD0672,2026-04-27,CUST0118,Headphones,Electronics,3,4149.12,15,10580.26,1452.85,Hyderabad,Telangana,Debit Card
+ORD0673,2026-01-25,CUST0266,Coffee Maker,Home,4,6039.87,15,20535.56,3729.35,Delhi,Delhi,UPI
+ORD0674,2026-03-21,CUST0071,Face Wash,Beauty,1,542.73,5,515.59,154.32,Hyderabad,Telangana,Debit Card
+ORD0675,2026-03-04,CUST0068,Office Chair,Home,2,6466.96,5,12287.22,2578.95,Hyderabad,Telangana,Debit Card
+ORD0676,2026-06-10,CUST0269,Office Chair,Home,4,12970.97,5,49289.69,10934.25,Lucknow,Uttar Pradesh,Debit Card
+ORD0677,2026-07-20,CUST0087,Smartphone,Electronics,1,50670.43,5,48136.91,4334.5,Mumbai,Maharashtra,UPI
+ORD0678,2026-07-02,CUST0268,Perfume,Beauty,4,5227.68,10,18819.65,6169.75,Bengaluru,Karnataka,Debit Card
+ORD0679,2026-07-24,CUST0192,Smartwatch,Electronics,3,8983.51,5,25603.0,3101.2,Kolkata,West Bengal,UPI
+ORD0680,2026-03-12,CUST0048,Skincare Kit,Beauty,3,1685.18,10,4549.99,1201.65,Ahmedabad,Gujarat,Credit Card
+ORD0681,2026-01-11,CUST0143,Makeup Kit,Beauty,3,4465.56,0,13396.68,3586.71,Chennai,Tamil Nadu,Credit Card
+ORD0682,2026-01-17,CUST0154,Keyboard,Electronics,1,3767.74,0,3767.74,364.51,Kolkata,West Bengal,UPI
+ORD0683,2026-01-14,CUST0266,Office Chair,Home,2,14156.36,10,25481.45,4709.78,Pune,Maharashtra,Net Banking
+ORD0684,2026-07-14,CUST0223,Table Lamp,Home,2,913.24,0,1826.48,380.07,Delhi,Delhi,Credit Card
+ORD0685,2026-05-01,CUST0132,Table Lamp,Home,2,831.81,0,1663.62,300.08,Kolkata,West Bengal,Credit Card
+ORD0686,2026-01-11,CUST0140,Hair Dryer,Beauty,1,4229.11,10,3806.2,940.34,Bengaluru,Karnataka,Credit Card
+ORD0687,2026-04-22,CUST0008,Sneakers,Clothing,4,3254.11,10,11714.8,2427.96,Hyderabad,Telangana,Debit Card
+ORD0688,2026-05-29,CUST0236,Backpack,Clothing,2,2034.24,15,3458.21,907.76,Kolkata,West Bengal,UPI
+ORD0689,2026-02-07,CUST0246,Jeans,Clothing,3,3254.83,10,8788.04,1935.9,Kolkata,West Bengal,Net Banking
+ORD0690,2026-02-07,CUST0051,Table Lamp,Home,2,2660.09,0,5320.18,1033.31,Mumbai,Maharashtra,UPI
+ORD0691,2026-02-02,CUST0018,Sneakers,Clothing,2,3553.79,10,6396.82,1350.76,Ahmedabad,Gujarat,UPI
+ORD0692,2026-06-29,CUST0032,Makeup Kit,Beauty,4,4333.64,0,17334.56,4431.45,Jaipur,Rajasthan,Net Banking
+ORD0693,2026-02-02,CUST0213,Office Chair,Home,1,15295.16,0,15295.16,3314.97,Pune,Maharashtra,UPI
+ORD0694,2026-05-26,CUST0110,Cookware Set,Home,2,3992.91,10,7187.24,1573.03,Kolkata,West Bengal,Credit Card
+ORD0695,2026-05-19,CUST0194,Sneakers,Clothing,4,2354.44,5,8946.87,2039.21,Delhi,Delhi,Net Banking
+ORD0696,2026-07-29,CUST0229,Smartwatch,Electronics,1,10507.73,10,9456.96,980.59,Bengaluru,Karnataka,UPI
+ORD0697,2026-02-26,CUST0112,Face Wash,Beauty,4,456.73,5,1735.57,414.1,Mumbai,Maharashtra,Debit Card
+ORD0698,2026-03-17,CUST0108,Bedsheet,Home,3,1339.56,15,3415.88,665.2,Noida,Uttar Pradesh,Net Banking
+ORD0699,2026-08-06,CUST0088,Bedsheet,Home,4,2263.14,0,9052.56,1852.6,Noida,Uttar Pradesh,UPI
+ORD0700,2026-07-22,CUST0169,Sneakers,Clothing,1,5680.13,5,5396.12,1486.54,Chennai,Tamil Nadu,UPI
+ORD0701,2026-05-23,CUST0240,Skincare Kit,Beauty,4,3081.42,15,10476.83,3313.28,Bengaluru,Karnataka,UPI
+ORD0702,2026-08-09,CUST0237,T-Shirt,Clothing,3,1116.41,10,3014.31,849.8,Pune,Maharashtra,UPI
+ORD0703,2026-04-14,CUST0159,Jeans,Clothing,3,1680.92,20,4034.21,894.33,Hyderabad,Telangana,UPI
+ORD0704,2026-01-12,CUST0244,Table Lamp,Home,1,1725.4,5,1639.13,250.77,Jaipur,Rajasthan,Credit Card
+ORD0705,2026-03-19,CUST0075,Headphones,Electronics,2,2109.13,0,4218.26,469.8,Noida,Uttar Pradesh,Net Banking
+ORD0706,2026-03-15,CUST0171,Smartwatch,Electronics,3,12241.78,10,33052.81,4188.95,Bengaluru,Karnataka,Cash
+ORD0707,2026-01-04,CUST0292,T-Shirt,Clothing,1,903.4,5,858.23,185.19,Lucknow,Uttar Pradesh,Net Banking
+ORD0708,2026-06-20,CUST0063,Table Lamp,Home,1,1249.73,5,1187.24,260.67,Mumbai,Maharashtra,Debit Card
+ORD0709,2026-07-26,CUST0028,Smartphone,Electronics,4,55859.15,5,212264.77,20462.44,Mumbai,Maharashtra,UPI
+ORD0710,2026-01-17,CUST0251,Table Lamp,Home,2,1229.89,5,2336.79,381.93,Noida,Uttar Pradesh,UPI
+ORD0711,2026-05-31,CUST0150,Headphones,Electronics,2,5125.07,0,10250.14,1216.64,Kolkata,West Bengal,UPI
+ORD0712,2026-05-06,CUST0239,Jacket,Clothing,3,4550.9,0,13652.7,3504.27,Pune,Maharashtra,Credit Card
+ORD0713,2026-08-06,CUST0080,Sneakers,Clothing,3,3415.72,10,9222.44,2568.39,Lucknow,Uttar Pradesh,Credit Card
+ORD0714,2026-07-14,CUST0214,Bedsheet,Home,4,2269.42,15,7716.03,1339.47,Hyderabad,Telangana,Debit Card
+ORD0715,2026-02-25,CUST0196,Skincare Kit,Beauty,3,3129.99,5,8920.47,2126.09,Chennai,Tamil Nadu,Net Banking
+ORD0716,2026-02-06,CUST0045,Makeup Kit,Beauty,4,1123.9,5,4270.82,1166.8,Delhi,Delhi,UPI
+ORD0717,2026-06-21,CUST0117,Smartwatch,Electronics,4,7116.82,20,22773.82,2269.81,Jaipur,Rajasthan,UPI
+ORD0718,2026-07-16,CUST0010,Smartphone,Electronics,3,59591.59,20,143019.82,16202.87,Pune,Maharashtra,Debit Card
+ORD0719,2026-01-30,CUST0213,Hair Dryer,Beauty,1,2825.43,10,2542.89,658.15,Chennai,Tamil Nadu,UPI
+ORD0720,2026-06-15,CUST0171,Perfume,Beauty,1,4917.53,0,4917.53,1350.99,Ahmedabad,Gujarat,UPI
+ORD0721,2026-06-26,CUST0292,Smartwatch,Electronics,1,11210.0,10,10089.0,1340.61,Gurugram,Haryana,Credit Card
+ORD0722,2026-04-02,CUST0127,Backpack,Clothing,1,2225.11,15,1891.34,418.14,Chennai,Tamil Nadu,UPI
+ORD0723,2026-04-30,CUST0277,Coffee Maker,Home,4,5808.23,10,20909.63,4625.95,Chennai,Tamil Nadu,Credit Card
+ORD0724,2026-06-19,CUST0277,T-Shirt,Clothing,3,1737.79,5,4952.7,1423.3,Bengaluru,Karnataka,Credit Card
+ORD0725,2026-06-29,CUST0172,Sneakers,Clothing,3,2603.51,5,7420.0,1438.66,Hyderabad,Telangana,UPI
+ORD0726,2026-03-22,CUST0275,Face Wash,Beauty,3,864.06,5,2462.57,656.68,Jaipur,Rajasthan,Net Banking
+ORD0727,2026-01-27,CUST0258,Jeans,Clothing,2,2511.42,20,4018.27,969.42,Delhi,Delhi,Credit Card
+ORD0728,2026-07-18,CUST0081,Smartwatch,Electronics,1,14104.83,20,11283.86,1171.27,Gurugram,Haryana,Net Banking
+ORD0729,2026-08-04,CUST0285,Sneakers,Clothing,2,2679.64,0,5359.28,1035.81,Hyderabad,Telangana,UPI
+ORD0730,2026-07-29,CUST0017,Hair Dryer,Beauty,1,1363.15,10,1226.84,421.83,Lucknow,Uttar Pradesh,Net Banking
+ORD0731,2026-01-15,CUST0188,Office Chair,Home,1,7216.01,15,6133.61,934.24,Jaipur,Rajasthan,Cash
+ORD0732,2026-01-10,CUST0047,Hair Dryer,Beauty,4,2182.94,5,8295.17,2089.77,Delhi,Delhi,UPI
+ORD0733,2026-01-18,CUST0167,Jeans,Clothing,2,2375.52,15,4038.38,789.34,Lucknow,Uttar Pradesh,Net Banking
+ORD0734,2026-05-26,CUST0038,Skincare Kit,Beauty,2,3143.54,15,5344.02,1625.65,Hyderabad,Telangana,UPI
+ORD0735,2026-05-13,CUST0220,Jacket,Clothing,2,5875.18,0,11750.36,2907.74,Mumbai,Maharashtra,Debit Card
+ORD0736,2026-06-08,CUST0279,Jeans,Clothing,1,3423.23,15,2909.75,592.32,Kolkata,West Bengal,UPI
+ORD0737,2026-04-05,CUST0140,T-Shirt,Clothing,3,638.34,5,1819.27,405.42,Jaipur,Rajasthan,Net Banking
+ORD0738,2026-03-15,CUST0108,Table Lamp,Home,2,1142.19,10,2055.94,392.94,Mumbai,Maharashtra,Net Banking
+ORD0739,2026-04-29,CUST0162,Smartwatch,Electronics,1,8779.17,10,7901.25,941.45,Pune,Maharashtra,UPI
+ORD0740,2026-06-27,CUST0003,T-Shirt,Clothing,3,1782.43,5,5079.93,1380.02,Kolkata,West Bengal,UPI
+ORD0741,2026-01-13,CUST0004,Backpack,Clothing,1,1209.46,0,1209.46,268.84,Pune,Maharashtra,UPI
+ORD0742,2026-07-24,CUST0211,Perfume,Beauty,3,2501.48,5,7129.22,2206.38,Gurugram,Haryana,UPI
+ORD0743,2026-06-17,CUST0176,T-Shirt,Clothing,3,1769.39,5,5042.76,1169.62,Chennai,Tamil Nadu,UPI
+ORD0744,2026-01-06,CUST0273,Table Lamp,Home,1,1694.13,15,1440.01,313.33,Gurugram,Haryana,UPI
+ORD0745,2026-02-21,CUST0171,Perfume,Beauty,1,1492.35,20,1193.88,380.04,Mumbai,Maharashtra,Net Banking
+ORD0746,2026-03-10,CUST0084,Cookware Set,Home,3,2512.67,5,7161.11,1329.86,Ahmedabad,Gujarat,Net Banking
+ORD0747,2026-04-07,CUST0057,Bedsheet,Home,1,1182.77,10,1064.49,204.93,Noida,Uttar Pradesh,Debit Card
+ORD0748,2026-05-06,CUST0117,Face Wash,Beauty,3,620.04,5,1767.11,468.38,Gurugram,Haryana,Credit Card
+ORD0749,2026-03-07,CUST0070,Backpack,Clothing,3,2757.6,0,8272.8,1743.79,Pune,Maharashtra,UPI
+ORD0750,2026-05-25,CUST0045,Makeup Kit,Beauty,2,2223.52,5,4224.69,1231.4,Pune,Maharashtra,Net Banking
+ORD0751,2026-04-23,CUST0072,Coffee Maker,Home,2,7543.2,15,12823.44,2568.18,Lucknow,Uttar Pradesh,Credit Card
+ORD0752,2026-04-28,CUST0293,Makeup Kit,Beauty,2,1988.79,10,3579.82,820.23,Kolkata,West Bengal,Credit Card
+ORD0753,2026-01-16,CUST0163,Backpack,Clothing,3,1589.29,10,4291.08,1145.72,Delhi,Delhi,Credit Card
+ORD0754,2026-06-30,CUST0231,Smartphone,Electronics,1,42634.98,5,40503.23,5415.76,Lucknow,Uttar Pradesh,Cash
+ORD0755,2026-02-07,CUST0226,Bedsheet,Home,4,883.83,5,3358.55,745.44,Gurugram,Haryana,Net Banking
+ORD0756,2026-06-28,CUST0039,Face Wash,Beauty,1,323.13,15,274.66,90.08,Noida,Uttar Pradesh,Net Banking
+ORD0757,2026-07-22,CUST0021,Headphones,Electronics,1,6565.85,15,5580.97,508.89,Noida,Uttar Pradesh,Credit Card
+ORD0758,2026-07-12,CUST0099,T-Shirt,Clothing,3,1768.28,0,5304.84,1355.89,Gurugram,Haryana,Credit Card
+ORD0759,2026-05-10,CUST0210,Jeans,Clothing,3,2966.12,5,8453.44,1618.79,Bengaluru,Karnataka,UPI
+ORD0760,2026-04-24,CUST0076,Backpack,Clothing,2,1043.26,5,1982.19,527.12,Noida,Uttar Pradesh,Credit Card
+ORD0761,2026-07-08,CUST0230,Perfume,Beauty,4,2823.51,5,10729.34,3029.37,Noida,Uttar Pradesh,UPI
+ORD0762,2026-01-03,CUST0047,Sneakers,Clothing,3,3583.87,10,9676.45,1852.84,Chennai,Tamil Nadu,Net Banking
+ORD0763,2026-07-05,CUST0174,Face Wash,Beauty,1,548.55,15,466.27,146.14,Noida,Uttar Pradesh,Net Banking
+ORD0764,2026-04-25,CUST0248,Sneakers,Clothing,1,3064.54,10,2758.09,609.24,Ahmedabad,Gujarat,UPI
+ORD0765,2026-05-18,CUST0285,Coffee Maker,Home,1,5347.29,10,4812.56,946.16,Noida,Uttar Pradesh,Debit Card
+ORD0766,2026-04-03,CUST0102,Smartwatch,Electronics,2,5417.6,5,10293.44,1394.7,Jaipur,Rajasthan,UPI
+ORD0767,2026-08-04,CUST0090,T-Shirt,Clothing,1,763.71,5,725.52,161.4,Gurugram,Haryana,Credit Card
+ORD0768,2026-05-15,CUST0042,Perfume,Beauty,4,4203.12,10,15131.23,4651.84,Noida,Uttar Pradesh,Credit Card
+ORD0769,2026-06-19,CUST0153,Coffee Maker,Home,1,4487.79,15,3814.62,865.99,Noida,Uttar Pradesh,UPI
+ORD0770,2026-03-23,CUST0087,Headphones,Electronics,2,5295.34,10,9531.61,1215.38,Noida,Uttar Pradesh,Cash
+ORD0771,2026-05-09,CUST0117,Keyboard,Electronics,4,2888.36,5,10975.77,1325.23,Delhi,Delhi,UPI
+ORD0772,2026-02-14,CUST0024,Jacket,Clothing,2,2582.57,10,4648.63,972.83,Lucknow,Uttar Pradesh,UPI
+ORD0773,2026-07-01,CUST0207,Headphones,Electronics,4,7837.38,15,26647.09,2585.77,Delhi,Delhi,UPI
+ORD0774,2026-08-15,CUST0075,Smartphone,Electronics,3,46433.71,5,132336.07,17701.06,Chennai,Tamil Nadu,UPI
+ORD0775,2026-07-23,CUST0007,Jeans,Clothing,2,3284.12,10,5911.42,1257.55,Bengaluru,Karnataka,Net Banking
+ORD0776,2026-01-20,CUST0117,Laptop,Electronics,3,48621.63,5,138571.65,16553.32,Hyderabad,Telangana,Net Banking
+ORD0777,2026-07-02,CUST0217,Bedsheet,Home,4,1312.7,0,5250.8,1131.36,Hyderabad,Telangana,Credit Card
+ORD0778,2026-04-11,CUST0181,Hair Dryer,Beauty,4,3784.52,5,14381.18,4016.43,Hyderabad,Telangana,Credit Card
+ORD0779,2026-01-22,CUST0066,Smartwatch,Electronics,1,16817.84,0,16817.84,1614.2,Mumbai,Maharashtra,Debit Card
+ORD0780,2026-03-21,CUST0188,Table Lamp,Home,3,2146.09,0,6438.27,1054.43,Delhi,Delhi,Credit Card
+ORD0781,2026-04-07,CUST0099,Jacket,Clothing,1,3796.48,0,3796.48,974.47,Gurugram,Haryana,UPI
+ORD0782,2026-03-23,CUST0144,Cookware Set,Home,2,6412.62,0,12825.24,2724.8,Chennai,Tamil Nadu,Credit Card
+ORD0783,2026-02-01,CUST0074,Jeans,Clothing,4,1700.82,5,6463.12,1704.41,Noida,Uttar Pradesh,Net Banking
+ORD0784,2026-01-09,CUST0062,Keyboard,Electronics,1,4473.92,10,4026.53,454.01,Mumbai,Maharashtra,Net Banking
+ORD0785,2026-03-23,CUST0242,Skincare Kit,Beauty,3,2746.85,5,7828.52,2504.84,Hyderabad,Telangana,UPI
+ORD0786,2026-03-05,CUST0102,Table Lamp,Home,3,2765.74,10,7467.5,1362.19,Noida,Uttar Pradesh,UPI
+ORD0787,2026-07-24,CUST0196,Skincare Kit,Beauty,4,3264.03,15,11097.7,3827.84,Kolkata,West Bengal,Credit Card
+ORD0788,2026-04-28,CUST0069,Laptop,Electronics,1,78790.7,0,78790.7,10003.35,Chennai,Tamil Nadu,Net Banking
+ORD0789,2026-01-29,CUST0131,Jacket,Clothing,1,2090.28,5,1985.77,392.22,Lucknow,Uttar Pradesh,UPI
+ORD0790,2026-05-21,CUST0231,Jacket,Clothing,2,3408.46,5,6476.07,1547.5,Bengaluru,Karnataka,Net Banking
+ORD0791,2026-02-16,CUST0130,Jacket,Clothing,2,1887.1,0,3774.2,753.1,Lucknow,Uttar Pradesh,UPI
+ORD0792,2026-06-20,CUST0162,Bedsheet,Home,2,2233.01,0,4466.02,888.25,Ahmedabad,Gujarat,Debit Card
+ORD0793,2026-02-26,CUST0126,Jeans,Clothing,2,1493.97,10,2689.15,772.12,Noida,Uttar Pradesh,Net Banking
+ORD0794,2026-07-13,CUST0011,T-Shirt,Clothing,2,1535.31,15,2610.03,701.73,Hyderabad,Telangana,Debit Card
+ORD0795,2026-07-06,CUST0114,Skincare Kit,Beauty,4,1189.64,0,4758.56,1438.26,Chennai,Tamil Nadu,UPI
+ORD0796,2026-01-19,CUST0261,Sneakers,Clothing,3,6386.27,20,15327.05,4179.04,Jaipur,Rajasthan,UPI
+ORD0797,2026-05-08,CUST0170,Sneakers,Clothing,3,5386.91,0,16160.73,3978.13,Bengaluru,Karnataka,Debit Card
+ORD0798,2026-05-15,CUST0026,Jacket,Clothing,1,2483.93,10,2235.54,471.26,Pune,Maharashtra,UPI
+ORD0799,2026-01-22,CUST0269,Sneakers,Clothing,4,3030.95,0,12123.8,2974.23,Chennai,Tamil Nadu,UPI
+ORD0800,2026-05-24,CUST0205,Office Chair,Home,3,10825.11,10,29227.8,4514.47,Noida,Uttar Pradesh,Net Banking
+ORD0801,2026-06-15,CUST0106,Face Wash,Beauty,2,565.83,5,1075.08,354.0,Mumbai,Maharashtra,Debit Card
+ORD0802,2026-03-11,CUST0150,Jacket,Clothing,2,4114.13,0,8228.26,1721.95,Noida,Uttar Pradesh,Credit Card
+ORD0803,2026-04-14,CUST0089,Jeans,Clothing,2,3350.25,10,6030.45,1208.73,Pune,Maharashtra,Debit Card
+ORD0804,2026-06-02,CUST0269,Jacket,Clothing,3,2653.67,5,7562.96,1542.52,Mumbai,Maharashtra,Net Banking
+ORD0805,2026-06-25,CUST0192,Smartphone,Electronics,3,19263.34,0,57790.02,7932.24,Kolkata,West Bengal,Credit Card
+ORD0806,2026-05-01,CUST0094,Headphones,Electronics,1,4122.94,0,4122.94,499.31,Gurugram,Haryana,Credit Card
+ORD0807,2026-05-10,CUST0293,Laptop,Electronics,3,68569.69,5,195423.62,18530.45,Jaipur,Rajasthan,UPI
+ORD0808,2026-05-23,CUST0042,Face Wash,Beauty,2,393.45,10,708.21,217.54,Bengaluru,Karnataka,Net Banking
+ORD0809,2026-08-03,CUST0166,Face Wash,Beauty,4,821.61,10,2957.8,771.79,Ahmedabad,Gujarat,Net Banking
+ORD0810,2026-06-30,CUST0294,Sneakers,Clothing,3,2562.36,10,6918.37,1810.55,Delhi,Delhi,Debit Card
+ORD0811,2026-04-10,CUST0028,Laptop,Electronics,2,59012.48,0,118024.96,13569.46,Lucknow,Uttar Pradesh,Net Banking
+ORD0812,2026-02-15,CUST0214,Sneakers,Clothing,3,3575.64,15,9117.88,2431.11,Ahmedabad,Gujarat,Net Banking
+ORD0813,2026-08-04,CUST0161,Keyboard,Electronics,3,2014.43,0,6043.29,708.5,Mumbai,Maharashtra,UPI
+ORD0814,2026-05-10,CUST0105,Coffee Maker,Home,4,2610.3,10,9397.08,1787.42,Jaipur,Rajasthan,UPI
+ORD0815,2026-04-03,CUST0020,Smartphone,Electronics,1,50624.94,5,48093.69,6529.16,Chennai,Tamil Nadu,Credit Card
+ORD0816,2026-06-18,CUST0225,T-Shirt,Clothing,1,1367.53,10,1230.78,324.94,Kolkata,West Bengal,Credit Card
+ORD0817,2026-03-17,CUST0094,Keyboard,Electronics,4,4464.06,10,16070.62,1510.99,Bengaluru,Karnataka,UPI
+ORD0818,2026-06-08,CUST0069,Jeans,Clothing,3,1782.36,0,5347.08,1335.33,Hyderabad,Telangana,Credit Card
+ORD0819,2026-03-17,CUST0205,Laptop,Electronics,2,49636.47,10,89345.65,11536.38,Hyderabad,Telangana,Net Banking
+ORD0820,2026-05-17,CUST0178,Jeans,Clothing,4,3415.12,0,13660.48,2920.19,Lucknow,Uttar Pradesh,Debit Card
+ORD0821,2026-03-15,CUST0280,Skincare Kit,Beauty,1,2681.24,10,2413.12,611.2,Jaipur,Rajasthan,Cash
+ORD0822,2026-08-06,CUST0029,Skincare Kit,Beauty,2,3139.81,0,6279.62,1630.79,Bengaluru,Karnataka,Debit Card
+ORD0823,2026-07-28,CUST0186,Coffee Maker,Home,1,6278.59,15,5336.8,1200.21,Jaipur,Rajasthan,Credit Card
+ORD0824,2026-07-09,CUST0238,Makeup Kit,Beauty,1,3296.02,5,3131.22,881.84,Pune,Maharashtra,UPI
+ORD0825,2026-08-07,CUST0120,Sneakers,Clothing,1,3898.3,15,3313.56,861.88,Bengaluru,Karnataka,Credit Card
+ORD0826,2026-05-24,CUST0218,Makeup Kit,Beauty,2,3185.51,5,6052.47,2051.27,Gurugram,Haryana,UPI
+ORD0827,2026-02-04,CUST0241,Perfume,Beauty,4,1368.76,15,4653.78,1209.25,Lucknow,Uttar Pradesh,Debit Card
+ORD0828,2026-05-28,CUST0153,Office Chair,Home,1,9905.53,0,9905.53,1880.08,Gurugram,Haryana,UPI
+ORD0829,2026-07-17,CUST0226,T-Shirt,Clothing,2,1044.61,5,1984.76,515.59,Chennai,Tamil Nadu,Credit Card
+ORD0830,2026-01-31,CUST0285,Bedsheet,Home,2,2249.32,10,4048.78,666.77,Noida,Uttar Pradesh,UPI
+ORD0831,2026-04-01,CUST0025,Perfume,Beauty,4,3692.19,0,14768.76,3670.3,Kolkata,West Bengal,UPI
+ORD0832,2026-03-05,CUST0182,Makeup Kit,Beauty,2,3133.78,15,5327.43,1514.19,Bengaluru,Karnataka,Debit Card
+ORD0833,2026-04-10,CUST0087,Hair Dryer,Beauty,4,1707.28,0,6829.12,2355.6,Delhi,Delhi,UPI
+ORD0834,2026-06-03,CUST0130,Cookware Set,Home,1,3280.31,5,3116.29,686.87,Gurugram,Haryana,Debit Card
+ORD0835,2026-03-16,CUST0194,Makeup Kit,Beauty,2,2583.04,0,5166.08,1688.98,Bengaluru,Karnataka,UPI
+ORD0836,2026-08-15,CUST0191,Office Chair,Home,3,15181.08,0,45543.24,6931.57,Noida,Uttar Pradesh,Debit Card
+ORD0837,2026-01-21,CUST0171,Headphones,Electronics,2,1542.2,10,2775.96,340.44,Jaipur,Rajasthan,Net Banking
+ORD0838,2026-05-21,CUST0069,Face Wash,Beauty,4,793.45,15,2697.73,612.12,Pune,Maharashtra,UPI
+ORD0839,2026-05-26,CUST0243,Coffee Maker,Home,1,5425.42,20,4340.34,670.47,Noida,Uttar Pradesh,UPI
+ORD0840,2026-04-10,CUST0012,Perfume,Beauty,2,5214.91,15,8865.35,2005.35,Lucknow,Uttar Pradesh,UPI
+ORD0841,2026-05-22,CUST0158,Smartphone,Electronics,1,53937.31,5,51240.44,4897.76,Lucknow,Uttar Pradesh,Cash
+ORD0842,2026-04-30,CUST0280,Coffee Maker,Home,4,4840.65,0,19362.6,3129.97,Chennai,Tamil Nadu,UPI
+ORD0843,2026-02-13,CUST0156,Sneakers,Clothing,3,6674.9,10,18022.23,3633.72,Mumbai,Maharashtra,Debit Card
+ORD0844,2026-04-03,CUST0042,Jeans,Clothing,2,2125.81,10,3826.46,817.97,Hyderabad,Telangana,UPI
+ORD0845,2026-07-19,CUST0100,Skincare Kit,Beauty,4,1651.99,0,6607.96,1880.51,Chennai,Tamil Nadu,Debit Card
+ORD0846,2026-02-06,CUST0226,Perfume,Beauty,4,2486.13,5,9447.29,2548.9,Jaipur,Rajasthan,Credit Card
+ORD0847,2026-05-12,CUST0112,Sneakers,Clothing,2,2789.99,5,5300.98,1018.97,Chennai,Tamil Nadu,Credit Card
+ORD0848,2026-05-28,CUST0083,T-Shirt,Clothing,3,1684.74,10,4548.8,1027.47,Noida,Uttar Pradesh,Debit Card
+ORD0849,2026-04-16,CUST0058,Office Chair,Home,3,10453.26,15,26655.81,5959.8,Mumbai,Maharashtra,Credit Card
+ORD0850,2026-01-25,CUST0039,Hair Dryer,Beauty,4,3123.51,0,12494.04,2826.98,Lucknow,Uttar Pradesh,UPI
+ORD0851,2026-08-01,CUST0123,Face Wash,Beauty,2,463.04,5,879.78,256.0,Lucknow,Uttar Pradesh,Cash
+ORD0852,2026-07-29,CUST0258,Laptop,Electronics,3,75898.81,15,193541.97,18873.71,Jaipur,Rajasthan,UPI
+ORD0853,2026-07-20,CUST0258,T-Shirt,Clothing,4,626.59,15,2130.41,599.9,Mumbai,Maharashtra,Credit Card
+ORD0854,2026-04-21,CUST0006,Backpack,Clothing,3,2436.25,10,6577.88,1642.46,Delhi,Delhi,UPI
+ORD0855,2026-02-09,CUST0288,Sneakers,Clothing,4,5980.07,10,21528.25,5572.82,Delhi,Delhi,Net Banking
+ORD0856,2026-07-18,CUST0084,Sneakers,Clothing,2,6826.27,5,12969.91,3397.59,Mumbai,Maharashtra,Debit Card
+ORD0857,2026-05-19,CUST0176,Headphones,Electronics,3,3581.27,10,9669.43,1042.78,Kolkata,West Bengal,Credit Card
+ORD0858,2026-04-02,CUST0296,Office Chair,Home,2,13205.45,5,25090.36,4653.01,Gurugram,Haryana,Credit Card
+ORD0859,2026-07-27,CUST0221,Cookware Set,Home,1,6005.76,15,5104.9,963.34,Kolkata,West Bengal,UPI
+ORD0860,2026-04-25,CUST0121,Perfume,Beauty,1,4672.97,5,4439.32,1043.79,Kolkata,West Bengal,Credit Card
+ORD0861,2026-07-14,CUST0012,Makeup Kit,Beauty,2,2373.64,5,4509.92,1376.61,Jaipur,Rajasthan,Net Banking
+ORD0862,2026-08-06,CUST0206,Perfume,Beauty,3,1380.32,5,3933.91,1011.29,Chennai,Tamil Nadu,Debit Card
+ORD0863,2026-02-04,CUST0180,Sneakers,Clothing,2,3955.06,5,7514.61,1624.12,Ahmedabad,Gujarat,Debit Card
+ORD0864,2026-07-03,CUST0225,Office Chair,Home,4,15474.93,0,61899.72,10640.15,Gurugram,Haryana,UPI
+ORD0865,2026-07-20,CUST0233,Jeans,Clothing,4,2391.87,0,9567.48,2536.22,Noida,Uttar Pradesh,Net Banking
+ORD0866,2026-05-21,CUST0093,Bedsheet,Home,4,1945.14,15,6613.48,1471.38,Mumbai,Maharashtra,UPI
+ORD0867,2026-07-20,CUST0023,Cookware Set,Home,3,2654.21,0,7962.63,1777.85,Chennai,Tamil Nadu,Net Banking
+ORD0868,2026-05-02,CUST0141,Face Wash,Beauty,1,690.35,0,690.35,216.74,Chennai,Tamil Nadu,Credit Card
+ORD0869,2026-02-06,CUST0119,Hair Dryer,Beauty,3,1863.3,10,5030.91,1438.85,Pune,Maharashtra,Credit Card
+ORD0870,2026-04-22,CUST0238,Sneakers,Clothing,3,3951.06,10,10667.86,2150.11,Lucknow,Uttar Pradesh,Credit Card
+ORD0871,2026-08-09,CUST0114,Face Wash,Beauty,4,538.37,15,1830.46,562.14,Gurugram,Haryana,Net Banking
+ORD0872,2026-04-03,CUST0105,Perfume,Beauty,4,4369.61,5,16604.52,4362.85,Chennai,Tamil Nadu,Debit Card
+ORD0873,2026-06-25,CUST0096,Table Lamp,Home,3,1172.01,5,3340.23,554.25,Noida,Uttar Pradesh,Net Banking
+ORD0874,2026-08-14,CUST0230,Skincare Kit,Beauty,2,2952.81,20,4724.5,1326.8,Bengaluru,Karnataka,Credit Card
+ORD0875,2026-03-27,CUST0184,Keyboard,Electronics,4,4779.77,10,17207.17,1955.75,Hyderabad,Telangana,Credit Card
+ORD0876,2026-02-15,CUST0278,T-Shirt,Clothing,1,1230.79,5,1169.25,330.83,Kolkata,West Bengal,UPI
+ORD0877,2026-04-14,CUST0161,Makeup Kit,Beauty,3,1033.2,0,3099.6,1069.16,Kolkata,West Bengal,UPI
+ORD0878,2026-02-15,CUST0135,Table Lamp,Home,3,2634.52,0,7903.56,1206.31,Pune,Maharashtra,UPI
+ORD0879,2026-06-07,CUST0273,Headphones,Electronics,4,2766.69,5,10513.42,1080.05,Lucknow,Uttar Pradesh,Net Banking
+ORD0880,2026-06-26,CUST0228,Headphones,Electronics,2,6717.97,15,11420.55,1223.34,Gurugram,Haryana,Debit Card
+ORD0881,2026-04-11,CUST0145,Backpack,Clothing,2,2067.62,20,3308.19,856.48,Mumbai,Maharashtra,UPI
+ORD0882,2026-02-16,CUST0262,Table Lamp,Home,3,991.81,10,2677.89,478.76,Bengaluru,Karnataka,UPI
+ORD0883,2026-05-20,CUST0237,Face Wash,Beauty,4,867.83,15,2950.62,721.84,Delhi,Delhi,UPI
+ORD0884,2026-02-24,CUST0025,Coffee Maker,Home,1,4048.36,20,3238.69,519.65,Ahmedabad,Gujarat,UPI
+ORD0885,2026-01-11,CUST0012,Backpack,Clothing,2,2929.22,10,5272.6,1507.11,Ahmedabad,Gujarat,Debit Card
+ORD0886,2026-06-16,CUST0080,Smartwatch,Electronics,1,14457.84,5,13734.95,1466.15,Chennai,Tamil Nadu,Net Banking
+ORD0887,2026-04-13,CUST0015,Smartphone,Electronics,3,58346.76,15,148784.24,17893.79,Mumbai,Maharashtra,Credit Card
+ORD0888,2026-03-18,CUST0293,Smartphone,Electronics,3,25088.55,5,71502.37,9729.3,Pune,Maharashtra,Net Banking
+ORD0889,2026-02-10,CUST0203,Table Lamp,Home,3,2391.57,5,6815.97,1481.31,Mumbai,Maharashtra,Net Banking
+ORD0890,2026-07-13,CUST0275,Jeans,Clothing,3,3328.16,10,8986.03,2483.08,Pune,Maharashtra,Debit Card
+ORD0891,2026-06-02,CUST0225,T-Shirt,Clothing,1,1546.46,5,1469.14,351.72,Jaipur,Rajasthan,Credit Card
+ORD0892,2026-03-25,CUST0052,Hair Dryer,Beauty,2,1842.39,5,3500.54,927.97,Chennai,Tamil Nadu,UPI
+ORD0893,2026-06-03,CUST0145,Jacket,Clothing,3,5151.17,10,13908.16,2610.01,Hyderabad,Telangana,UPI
+ORD0894,2026-07-24,CUST0118,Smartphone,Electronics,1,45462.3,0,45462.3,5878.27,Chennai,Tamil Nadu,Credit Card
+ORD0895,2026-03-25,CUST0220,Jeans,Clothing,2,1213.49,0,2426.98,609.61,Ahmedabad,Gujarat,Net Banking
+ORD0896,2026-07-29,CUST0150,Headphones,Electronics,1,7195.62,15,6116.28,807.0,Noida,Uttar Pradesh,Credit Card
+ORD0897,2026-03-08,CUST0239,Bedsheet,Home,2,883.55,5,1678.74,299.66,Ahmedabad,Gujarat,Debit Card
+ORD0898,2026-08-09,CUST0296,Perfume,Beauty,4,4795.2,15,16303.68,3725.31,Lucknow,Uttar Pradesh,Credit Card
+ORD0899,2026-05-04,CUST0216,Makeup Kit,Beauty,1,1770.34,10,1593.31,380.82,Gurugram,Haryana,Cash
+ORD0900,2026-06-02,CUST0125,Bedsheet,Home,1,897.06,0,897.06,186.84,Ahmedabad,Gujarat,Credit Card
+ORD0901,2026-04-16,CUST0193,Sneakers,Clothing,4,5572.43,10,20060.75,5069.09,Bengaluru,Karnataka,Cash
+ORD0902,2026-07-18,CUST0139,Smartwatch,Electronics,2,6930.54,10,12474.97,1455.6,Pune,Maharashtra,Cash
+ORD0903,2026-01-10,CUST0188,Laptop,Electronics,1,77542.71,10,69788.44,7413.2,Pune,Maharashtra,Debit Card
+ORD0904,2026-01-15,CUST0109,Cookware Set,Home,3,5929.5,10,16009.65,2517.35,Gurugram,Haryana,Net Banking
+ORD0905,2026-03-23,CUST0105,Backpack,Clothing,1,1392.84,15,1183.91,232.49,Mumbai,Maharashtra,UPI
+ORD0906,2026-05-13,CUST0065,Sneakers,Clothing,3,4844.92,5,13808.02,3031.64,Noida,Uttar Pradesh,Credit Card
+ORD0907,2026-03-09,CUST0278,Laptop,Electronics,1,73292.52,10,65963.27,8765.76,Ahmedabad,Gujarat,Credit Card
+ORD0908,2026-01-24,CUST0208,Laptop,Electronics,1,49561.13,10,44605.02,5884.25,Gurugram,Haryana,Debit Card
+ORD0909,2026-02-12,CUST0029,Smartphone,Electronics,2,42599.62,15,72419.35,9132.99,Bengaluru,Karnataka,Debit Card
+ORD0910,2026-05-22,CUST0204,Jeans,Clothing,1,1884.0,10,1695.6,330.26,Gurugram,Haryana,Debit Card
+ORD0911,2026-05-10,CUST0158,Backpack,Clothing,3,2826.3,5,8054.96,2001.69,Noida,Uttar Pradesh,UPI
+ORD0912,2026-03-14,CUST0053,Jeans,Clothing,1,2071.6,5,1968.02,536.53,Delhi,Delhi,UPI
+ORD0913,2026-04-16,CUST0299,Sneakers,Clothing,1,3564.03,5,3385.83,874.86,Lucknow,Uttar Pradesh,UPI
+ORD0914,2026-04-25,CUST0037,T-Shirt,Clothing,2,616.14,5,1170.67,274.36,Delhi,Delhi,Net Banking
+ORD0915,2026-03-07,CUST0286,Keyboard,Electronics,4,947.66,0,3790.64,402.54,Delhi,Delhi,Credit Card
+ORD0916,2026-03-18,CUST0089,Skincare Kit,Beauty,2,829.74,5,1576.51,385.17,Hyderabad,Telangana,UPI
+ORD0917,2026-05-05,CUST0042,Smartphone,Electronics,2,20285.06,0,40570.12,4761.67,Jaipur,Rajasthan,Debit Card
+ORD0918,2026-08-03,CUST0071,Cookware Set,Home,1,6962.73,10,6266.46,997.21,Jaipur,Rajasthan,UPI
+ORD0919,2026-03-01,CUST0225,Table Lamp,Home,1,1734.04,0,1734.04,387.06,Jaipur,Rajasthan,UPI
+ORD0920,2026-06-13,CUST0245,T-Shirt,Clothing,2,583.85,10,1050.93,292.24,Hyderabad,Telangana,Net Banking
+ORD0921,2026-07-27,CUST0104,Smartwatch,Electronics,4,4249.03,15,14446.7,1334.78,Lucknow,Uttar Pradesh,UPI
+ORD0922,2026-02-08,CUST0277,Keyboard,Electronics,2,2704.35,10,4867.83,470.42,Delhi,Delhi,Credit Card
+ORD0923,2026-04-20,CUST0033,Smartwatch,Electronics,4,6753.38,15,22961.49,3101.15,Lucknow,Uttar Pradesh,Credit Card
+ORD0924,2026-01-28,CUST0223,Backpack,Clothing,1,1689.11,0,1689.11,432.98,Delhi,Delhi,Net Banking
+ORD0925,2026-02-11,CUST0099,Bedsheet,Home,1,966.68,0,966.68,189.84,Lucknow,Uttar Pradesh,Credit Card
+ORD0926,2026-07-16,CUST0198,Perfume,Beauty,2,4749.48,15,8074.12,2363.95,Mumbai,Maharashtra,UPI
+ORD0927,2026-04-10,CUST0054,Perfume,Beauty,4,4399.32,5,16717.42,4023.98,Hyderabad,Telangana,Net Banking
+ORD0928,2026-04-04,CUST0278,Headphones,Electronics,3,6026.54,15,15367.68,2070.67,Noida,Uttar Pradesh,UPI
+ORD0929,2026-03-13,CUST0015,Smartphone,Electronics,4,15475.66,5,58807.51,7201.12,Chennai,Tamil Nadu,Credit Card
+ORD0930,2026-05-19,CUST0117,Sneakers,Clothing,1,6662.82,0,6662.82,1493.56,Gurugram,Haryana,UPI
+ORD0931,2026-04-20,CUST0115,Makeup Kit,Beauty,1,4650.47,10,4185.42,1316.02,Jaipur,Rajasthan,Cash
+ORD0932,2026-05-25,CUST0275,Smartwatch,Electronics,2,10366.39,0,20732.78,2091.61,Pune,Maharashtra,Cash
+ORD0933,2026-03-16,CUST0128,Perfume,Beauty,1,1714.78,10,1543.3,398.21,Ahmedabad,Gujarat,Credit Card
+ORD0934,2026-03-07,CUST0194,Hair Dryer,Beauty,2,3850.98,10,6931.76,1811.99,Jaipur,Rajasthan,Credit Card
+ORD0935,2026-07-19,CUST0297,Bedsheet,Home,1,1655.22,10,1489.7,263.53,Mumbai,Maharashtra,Credit Card
+ORD0936,2026-03-15,CUST0132,T-Shirt,Clothing,4,748.44,10,2694.38,513.22,Delhi,Delhi,Credit Card
+ORD0937,2026-07-13,CUST0253,Backpack,Clothing,2,912.7,5,1734.13,387.27,Bengaluru,Karnataka,Credit Card
+ORD0938,2026-04-14,CUST0170,Skincare Kit,Beauty,2,3054.23,5,5803.04,1929.79,Noida,Uttar Pradesh,Cash
+ORD0939,2026-08-11,CUST0003,Skincare Kit,Beauty,3,1938.79,10,5234.73,1717.31,Ahmedabad,Gujarat,UPI
+ORD0940,2026-07-23,CUST0165,Perfume,Beauty,2,2515.6,15,4276.52,1210.12,Chennai,Tamil Nadu,UPI
+ORD0941,2026-06-04,CUST0172,Makeup Kit,Beauty,3,1782.97,5,5081.46,1603.75,Hyderabad,Telangana,Debit Card
+ORD0942,2026-03-09,CUST0139,Cookware Set,Home,4,6023.33,0,24093.32,4019.3,Hyderabad,Telangana,UPI
+ORD0943,2026-04-16,CUST0039,Jacket,Clothing,1,3596.52,10,3236.87,813.47,Kolkata,West Bengal,Credit Card
+ORD0944,2026-03-07,CUST0266,Hair Dryer,Beauty,1,1187.11,5,1127.75,296.68,Chennai,Tamil Nadu,Debit Card
+ORD0945,2026-05-25,CUST0152,Bedsheet,Home,1,2180.35,10,1962.32,295.09,Delhi,Delhi,UPI
+ORD0946,2026-01-08,CUST0244,Bedsheet,Home,3,2008.52,0,6025.56,1266.68,Gurugram,Haryana,UPI
+ORD0947,2026-02-18,CUST0246,Table Lamp,Home,2,2741.35,10,4934.43,1007.53,Gurugram,Haryana,Credit Card
+ORD0948,2026-02-14,CUST0199,Table Lamp,Home,3,2176.85,5,6204.02,1273.71,Delhi,Delhi,UPI
+ORD0949,2026-03-16,CUST0157,Backpack,Clothing,2,2464.39,10,4435.9,1208.71,Lucknow,Uttar Pradesh,Debit Card
+ORD0950,2026-03-13,CUST0281,Makeup Kit,Beauty,1,4062.1,10,3655.89,1045.74,Delhi,Delhi,Cash
+ORD0951,2026-06-25,CUST0116,Smartphone,Electronics,1,39409.4,5,37438.93,4215.39,Kolkata,West Bengal,Cash
+ORD0952,2026-03-23,CUST0067,Laptop,Electronics,2,53398.21,0,106796.42,14206.22,Jaipur,Rajasthan,Debit Card
+ORD0953,2026-03-12,CUST0083,Jeans,Clothing,3,2629.47,10,7099.57,1609.47,Chennai,Tamil Nadu,Credit Card
+ORD0954,2026-05-11,CUST0122,Cookware Set,Home,1,4574.48,0,4574.48,933.52,Chennai,Tamil Nadu,UPI
+ORD0955,2026-06-04,CUST0052,Smartphone,Electronics,3,53129.38,15,135479.92,13762.7,Lucknow,Uttar Pradesh,UPI
+ORD0956,2026-04-19,CUST0207,Smartwatch,Electronics,3,15160.3,15,38658.76,4779.07,Pune,Maharashtra,UPI
+ORD0957,2026-04-10,CUST0148,Coffee Maker,Home,4,6509.75,0,26039.0,5294.68,Noida,Uttar Pradesh,Debit Card
+ORD0958,2026-03-04,CUST0025,Bedsheet,Home,4,1557.74,15,5296.32,1216.8,Chennai,Tamil Nadu,Cash
+ORD0959,2026-04-26,CUST0177,Office Chair,Home,2,13398.61,15,22777.64,3559.37,Bengaluru,Karnataka,Cash
+ORD0960,2026-01-23,CUST0009,Perfume,Beauty,4,3538.0,15,12029.2,3143.49,Bengaluru,Karnataka,Credit Card
+ORD0961,2026-03-30,CUST0207,Skincare Kit,Beauty,2,3197.16,5,6074.6,2022.56,Noida,Uttar Pradesh,Credit Card
+ORD0962,2026-03-13,CUST0283,Table Lamp,Home,1,1704.14,0,1704.14,337.55,Bengaluru,Karnataka,Net Banking
+ORD0963,2026-04-03,CUST0063,Perfume,Beauty,3,1264.37,10,3413.8,798.6,Noida,Uttar Pradesh,Debit Card
+ORD0964,2026-07-13,CUST0152,Perfume,Beauty,3,3941.25,5,11232.56,3558.62,Lucknow,Uttar Pradesh,Credit Card
+ORD0965,2026-02-21,CUST0128,Office Chair,Home,3,13041.61,0,39124.83,8981.79,Jaipur,Rajasthan,Debit Card
+ORD0966,2026-06-24,CUST0294,Perfume,Beauty,2,1407.22,10,2533.0,823.91,Mumbai,Maharashtra,UPI
+ORD0967,2026-01-20,CUST0031,T-Shirt,Clothing,1,511.92,20,409.54,117.59,Kolkata,West Bengal,Credit Card
+ORD0968,2026-04-29,CUST0067,Jacket,Clothing,4,2950.3,20,9440.96,2453.7,Chennai,Tamil Nadu,Credit Card
+ORD0969,2026-04-16,CUST0092,Cookware Set,Home,1,2623.95,15,2230.36,478.08,Jaipur,Rajasthan,UPI
+ORD0970,2026-08-10,CUST0161,Bedsheet,Home,4,1008.22,10,3629.59,713.99,Noida,Uttar Pradesh,UPI
+ORD0971,2026-03-13,CUST0030,Perfume,Beauty,2,3497.77,15,5946.21,1539.59,Noida,Uttar Pradesh,UPI
+ORD0972,2026-05-11,CUST0291,Backpack,Clothing,1,3286.17,10,2957.55,752.42,Noida,Uttar Pradesh,UPI
+ORD0973,2026-04-19,CUST0288,Makeup Kit,Beauty,1,1090.25,10,981.22,309.53,Kolkata,West Bengal,Debit Card
+ORD0974,2026-04-17,CUST0271,Laptop,Electronics,1,53374.06,15,45367.95,4671.84,Bengaluru,Karnataka,Debit Card
+ORD0975,2026-06-28,CUST0073,Jacket,Clothing,2,4530.55,0,9061.1,2482.33,Pune,Maharashtra,Debit Card
+ORD0976,2026-02-20,CUST0275,T-Shirt,Clothing,2,1483.1,5,2817.89,664.46,Lucknow,Uttar Pradesh,Cash
+ORD0977,2026-04-10,CUST0273,Hair Dryer,Beauty,1,1353.32,20,1082.66,343.69,Lucknow,Uttar Pradesh,Net Banking
+ORD0978,2026-04-21,CUST0258,Bedsheet,Home,1,2126.14,5,2019.83,380.21,Bengaluru,Karnataka,Credit Card
+ORD0979,2026-01-01,CUST0189,Perfume,Beauty,4,2422.88,10,8722.37,2471.65,Kolkata,West Bengal,Cash
+ORD0980,2026-04-24,CUST0056,Headphones,Electronics,1,4883.97,5,4639.77,521.25,Kolkata,West Bengal,Debit Card
+ORD0981,2026-04-29,CUST0223,Jeans,Clothing,2,2392.32,15,4066.94,881.85,Chennai,Tamil Nadu,Credit Card
+ORD0982,2026-01-06,CUST0038,Makeup Kit,Beauty,4,4158.12,15,14137.61,4660.6,Ahmedabad,Gujarat,Cash
+ORD0983,2026-03-20,CUST0110,Office Chair,Home,1,6396.39,15,5436.93,1212.33,Jaipur,Rajasthan,Credit Card
+ORD0984,2026-04-23,CUST0046,Bedsheet,Home,4,2445.55,20,7825.76,1711.85,Hyderabad,Telangana,UPI
+ORD0985,2026-01-31,CUST0156,Office Chair,Home,1,5121.03,10,4608.93,796.31,Gurugram,Haryana,Credit Card
+ORD0986,2026-07-25,CUST0199,Headphones,Electronics,2,5931.99,10,10677.58,1183.44,Ahmedabad,Gujarat,Credit Card
+ORD0987,2026-04-30,CUST0004,Keyboard,Electronics,3,997.66,5,2843.33,328.97,Delhi,Delhi,Net Banking
+ORD0988,2026-06-13,CUST0056,Laptop,Electronics,2,74162.34,15,126075.98,13287.38,Delhi,Delhi,UPI
+ORD0989,2026-07-17,CUST0205,Face Wash,Beauty,1,851.24,5,808.68,200.43,Kolkata,West Bengal,UPI
+ORD0990,2026-03-10,CUST0292,Keyboard,Electronics,2,1604.26,5,3048.09,339.53,Noida,Uttar Pradesh,UPI
+ORD0991,2026-05-21,CUST0257,Jeans,Clothing,2,1268.39,15,2156.26,469.3,Lucknow,Uttar Pradesh,Net Banking
+ORD0992,2026-05-07,CUST0297,Laptop,Electronics,2,64960.94,0,129921.88,17187.13,Chennai,Tamil Nadu,Credit Card
+ORD0993,2026-08-04,CUST0089,Perfume,Beauty,1,5652.84,15,4804.91,1566.86,Chennai,Tamil Nadu,UPI
+ORD0994,2026-06-06,CUST0002,Laptop,Electronics,2,50624.97,15,86062.45,10443.94,Gurugram,Haryana,Cash
+ORD0995,2026-05-28,CUST0131,Perfume,Beauty,4,3265.52,5,12408.98,3789.66,Lucknow,Uttar Pradesh,Debit Card
+ORD0996,2026-03-21,CUST0139,Skincare Kit,Beauty,2,2931.08,0,5862.16,1629.81,Delhi,Delhi,Credit Card
+ORD0997,2026-03-29,CUST0088,T-Shirt,Clothing,4,1369.06,0,5476.24,1385.44,Delhi,Delhi,Net Banking
+ORD0998,2026-01-27,CUST0214,Table Lamp,Home,1,1923.8,5,1827.61,304.53,Bengaluru,Karnataka,UPI
+ORD0999,2026-06-30,CUST0046,Table Lamp,Home,4,2019.03,10,7268.51,1199.82,Bengaluru,Karnataka,Net Banking
+ORD1000,2026-04-22,CUST0292,Face Wash,Beauty,3,282.36,0,847.08,288.23,Gurugram,Haryana,Cash
